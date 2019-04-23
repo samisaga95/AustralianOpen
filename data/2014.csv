@@ -1,0 +1,125 @@
+round,winner,results,year,gender,player1,player2,country1,country2,firstServe1,firstServe2,ace1,ace2,double1,double2,firstPointWon1,firstPointWon2,secPointWon1,secPointWon2,fastServe1,fastServe2,avgFirstServe1,avgFirstServe2,avgSecServe1,avgSecServe2,break1,break2,return1,return2,total1,total2,winner1,winner2,error1,error2,net1,net2
+Final,Stanislas Wawrinka,6-3 6-2 3-6 6-3,2014,m,Stanislas Wawrinka,Rafael Nadal,SUI,ESP,55%,78%,19,1,2,3,87%,60%,51%,42%,217,200,192,162,134,134,33%,33%,44%,29%,116,88,53,19,49,32,92%,63%
+semi,Rafael Nadal,7-6(4) 6-3 6-3,2014,m,Rafael Nadal,Roger Federer,ESP,SUI,65%,66%,3,8,1,1,73%,65%,73%,50%,198,203,175,181,152,152,29%,50%,40%,27%,105,86,28,34,25,50,30%,55%
+semi,Stanislas Wawrinka,6-3 6-7(1) 7-6(3) 7-6(4),2014,m,Stanislas Wawrinka,Tomas Berdych,SUI,CZE,61%,62%,18,21,4,7,82%,82%,56%,57%,217,216,189,195,152,152,25%,0%,28%,28%,143,142,57,60,49,49,78%,74%
+quarter,Rafael Nadal,3-6 7-6(3) 7-6(7) 6-2,2014,m,Rafael Nadal,Grigor Dimitrov,ESP,BUL,73%,58%,3,16,7,5,73%,71%,67%,49%,201,219,168,189,152,152,36%,50%,38%,29%,147,132,42,54,47,61,89%,68%
+quarter,Roger Federer,6-3 6-4 6-7(6) 6-3,2014,m,Roger Federer,Andy Murray,SUI,GBR,64%,61%,10,9,0,1,78%,67%,64%,49%,204,208,184,183,131,131,24%,50%,40%,27%,147,121,54,41,42,46,74%,63%
+quarter,Stanislas Wawrinka,2-6 6-4 6-2 3-6 9-7,2014,m,Stanislas Wawrinka,Novak Djokovic,SUI,SRB,58%,73%,17,7,5,1,72%,71%,50%,59%,219,203,194,187,146,146,50%,57%,32%,37%,153,161,51,45,60,60,67%,74%
+quarter,Tomas Berdych,6-1 6-4 2-6 6-4,2014,m,Tomas Berdych,David Ferrer,CZE,ESP,52%,61%,10,2,4,1,78%,64%,44%,50%,217,185,194,167,141,141,38%,25%,42%,39%,128,119,43,30,62,46,64%,92%
+Fourth,Andy Murray,6-1 6-2 6-7(6) 6-2,2014,m,Andy Murray,Stephane Robert,GBR,FRA,62%,51%,8,3,3,8,76%,67%,52%,39%,209,192,180,182,139,139,50%,17%,46%,33%,137,103,48,33,47,56,67%,65%
+Fourth,Rafael Nadal,7-6(3) 7-5 7-6(3),2014,m,Rafael Nadal,Kei Nishikori,ESP,JPN,71%,66%,12,2,1,1,76%,67%,39%,41%,202,199,185,178,148,148,63%,40%,42%,35%,129,110,36,36,28,51,53%,80%
+Fourth,Roger Federer,6-3 7-5 6-4,2014,m,Roger Federer,Jo-Wilfried Tsonga,SUI,FRA,57%,52%,7,8,1,1,88%,70%,69%,55%,202,224,184,191,146,146,43%,0%,38%,20%,100,72,43,29,21,28,83%,44%
+Fourth,Grigor Dimitrov,6-3 3-6 6-2 6-4,2014,m,Grigor Dimitrov,Roberto Bautista-Agut,BUL,ESP,60%,64%,11,5,3,1,85%,68%,47%,59%,219,198,192,171,147,147,80%,20%,35%,30%,114,100,38,27,34,45,66%,57%
+Fourth,Novak Djokovic,6-3 6-0 6-2,2014,m,Novak Djokovic,Fabio Fognini,SRB,ITA,72%,59%,7,3,2,7,88%,59%,71%,35%,200,201,177,180,139,139,27%,-,51%,17%,96,55,33,20,21,44,75%,69%
+Fourth,Stanislas Wawrinka,6-3 7-6(3) 7-6(5),2014,m,Stanislas Wawrinka,Tommy Robredo,SUI,ESP,56%,71%,14,1,3,0,90%,70%,51%,45%,221,199,197,185,149,149,40%,25%,37%,27%,118,96,57,24,37,22,68%,81%
+Fourth,Tomas Berdych,6-2 6-2 6-3,2014,m,Tomas Berdych,Kevin Anderson,CZE,RSA,52%,72%,4,16,3,1,89%,63%,62%,38%,219,212,193,194,171,171,29%,-,44%,24%,92,66,38,31,17,30,83%,32%
+Fourth,David Ferrer,6-7(5) 7-5 6-2 6-1,2014,m,David Ferrer,Florian Mayer,ESP,GER,63%,61%,3,4,1,3,74%,55%,55%,46%,189,193,171,179,137,137,47%,27%,48%,33%,153,118,64,33,43,49,70%,52%
+Third,Roberto Bautista-Agut,6-2 6-1 6-4,2014,m,Roberto Bautista-Agut,Benoit Paire,ESP,FRA,83%,58%,4,13,1,3,71%,63%,54%,29%,194,202,168,186,140,140,35%,29%,52%,32%,96,65,21,31,23,59,79%,50%
+Third,Roger Federer,6-2 6-2 6-3,2014,m,Roger Federer,Teimuraz Gabashvili,SUI,RUS,62%,69%,6,3,1,5,87%,60%,57%,36%,202,194,180,178,148,148,36%,0%,47%,25%,98,66,35,27,18,33,55%,37%
+Third,Andy Murray,7-6(2) 6-4 6-2,2014,m,Andy Murray,Feliciano Lopez,GBR,ESP,64%,57%,6,8,2,7,86%,70%,48%,47%,206,214,174,193,155,155,36%,100%,40%,27%,106,84,29,31,30,44,61%,70%
+Third,Grigor Dimitrov,6-3 3-6 6-4 7-6(10),2014,m,Grigor Dimitrov,Milos Raonic,BUL,CAN,60%,59%,15,21,5,5,83%,74%,75%,59%,217,226,194,200,169,169,50%,33%,32%,20%,128,107,49,50,13,39,80%,42%
+Third,Kei Nishikori,7-5 6-1 6-0,2014,m,Kei Nishikori,Donald Young,JPN,USA,54%,64%,3,1,1,5,71%,49%,60%,27%,193,201,176,162,140,140,67%,25%,59%,34%,93,56,30,17,27,32,43%,50%
+Third,Jo-Wilfried Tsonga,7-6(5) 6-4 6-2,2014,m,Jo-Wilfried Tsonga,Gilles Simon,FRA,FRA,66%,53%,17,7,0,3,80%,79%,65%,58%,223,198,189,181,137,137,50%,0%,31%,25%,94,79,40,21,29,25,74%,82%
+Third,Stephane Robert,6-0 7-6(2) 6-4,2014,m,Stephane Robert,Martin Klizan,FRA,SVK,72%,53%,7,6,5,4,86%,65%,46%,48%,194,196,177,176,146,146,40%,0%,43%,25%,105,75,35,36,23,38,82%,62%
+Third,Rafael Nadal,6-1 6-2 6-3,2014,m,Rafael Nadal,Gael Monfils,ESP,FRA,67%,69%,2,10,0,5,72%,57%,77%,33%,205,216,182,190,154,154,50%,0%,50%,27%,107,70,21,33,18,57,69%,44%
+Third,Kevin Anderson,3-6 4-6 6-3 7-6(5) 7-5,2014,m,Kevin Anderson,Edouard Roger-Vasselin,RSA,FRA,67%,74%,27,8,6,4,76%,72%,52%,44%,220,196,198,177,143,143,25%,43%,35%,32%,164,162,82,43,69,34,73%,59%
+Third,Tommy Robredo,2-6 7-5 6-4 7-6(6),2014,m,Tommy Robredo,Richard Gasquet,ESP,FRA,65%,62%,16,4,3,5,78%,72%,43%,53%,204,204,185,176,148,148,43%,33%,36%,35%,140,137,51,62,38,34,72%,77%
+Third,David Ferrer,6-2 7-6(5) 6-2,2014,m,David Ferrer,Jeremy Chardy,ESP,FRA,72%,58%,2,8,1,8,70%,69%,71%,36%,187,212,173,197,162,162,45%,33%,45%,30%,111,87,22,30,24,51,83%,63%
+Third,Tomas Berdych,6-4 6-2 6-2,2014,m,Tomas Berdych,Damir Dzumhur,CZE,BIH,57%,44%,13,5,1,6,90%,71%,61%,39%,215,190,199,174,143,143,56%,0%,47%,22%,93,58,32,21,26,34,72%,56%
+Third,Florian Mayer,7-5 6-2 6-2,2014,m,Florian Mayer,Jerzy Janowicz,GER,POL,68%,53%,17,3,0,7,91%,69%,68%,41%,188,220,165,186,151,151,45%,0%,44%,16%,98,63,38,34,7,44,92%,73%
+Third,Novak Djokovic,6-3 6-3 7-5,2014,m,Novak Djokovic,Denis Istomin,SRB,UZB,63%,65%,6,5,1,1,78%,73%,69%,33%,205,203,188,182,143,143,63%,100%,41%,26%,93,71,31,14,23,26,76%,33%
+Third,Fabio Fognini,7-5 6-4 6-4,2014,m,Fabio Fognini,Sam Querrey,ITA,USA,60%,63%,9,10,3,1,75%,66%,72%,50%,203,214,178,193,146,146,40%,25%,40%,26%,108,86,43,27,26,41,64%,48%
+Second,Donald Young,6-4 2-6 6-3 4-6 7-5,2014,m,Donald Young,Andreas Seppi,USA,ITA,61%,57%,6,12,15,10,66%,68%,43%,52%,199,196,168,174,132,132,40%,33%,39%,43%,158,165,47,47,78,65,65%,60%
+Second,Rafael Nadal,6-2 6-4 6-2,2014,m,Rafael Nadal,Thanasi Kokkinakis,ESP,AUS,74%,67%,7,4,1,3,82%,63%,58%,38%,199,203,179,187,153,153,50%,0%,45%,24%,91,61,39,21,19,24,79%,80%
+Second,Teimuraz Gabashvili,7-6(1) 3-6 2-6 6-4 6-4,2014,m,Teimuraz Gabashvili,Fernando Verdasco,RUS,ESP,68%,60%,2,12,4,18,64%,70%,57%,54%,199,215,172,181,154,154,29%,60%,36%,38%,146,156,24,56,51,71,60%,58%
+Second,Stephane Robert,7-6(3) 6-1 6-7(3) 6-1,2014,m,Stephane Robert,Michal Przysiezny,FRA,POL,58%,58%,13,12,8,6,78%,66%,58%,44%,196,210,177,190,155,155,35%,29%,44%,31%,143,112,43,46,28,63,87%,61%
+Second,Roberto Bautista-Agut,4-6 6-3 5-7 6-4 7-5,2014,m,Roberto Bautista-Agut,Juan Martin Del Potro,ESP,ARG,69%,72%,12,28,6,2,77%,72%,45%,50%,199,213,173,190,151,151,63%,24%,34%,33%,162,152,72,53,59,41,71%,52%
+Second,Jo-Wilfried Tsonga,7-6(6) 6-4 6-4,2014,m,Jo-Wilfried Tsonga,Thomaz Bellucci,FRA,BRA,64%,45%,14,9,6,5,86%,65%,55%,59%,218,207,191,186,158,158,33%,25%,39%,25%,110,88,47,19,28,29,67%,72%
+Second,Gilles Simon,4-6 7-6(3) 6-7(5) 6-1 6-2,2014,m,Gilles Simon,Marin Cilic,FRA,CRO,49%,50%,7,15,8,7,73%,68%,45%,43%,,,,,,,83%,47%,44%,41%,171,156,7,15,8,7,,
+Second,Gael Monfils,7-6(2) 7-5 6-2,2014,m,Gael Monfils,Jack Sock,FRA,USA,62%,58%,13,5,3,9,84%,70%,66%,47%,213,217,187,195,164,164,36%,100%,40%,23%,117,92,39,34,30,37,77%,55%
+Second,Martin Klizan,6-4 6-3 5-7 7-6(2),2014,m,Martin Klizan,Blaz Rola,SVK,SLO,58%,63%,16,12,5,8,73%,72%,69%,44%,,,,,,,36%,75%,38%,28%,139,123,16,12,5,8,,
+Second,Roger Federer,6-2 6-1 7-6(4),2014,m,Roger Federer,Blaz Kavcic,SUI,SLO,76%,62%,11,6,0,3,78%,52%,50%,47%,208,202,180,181,142,142,55%,50%,49%,29%,103,72,52,14,35,21,79%,31%
+Second,Benoit Paire,6-7(5) 6-7(5) 6-4 6-2 6-2,2014,m,Benoit Paire,Nick Kyrgios,FRA,AUS,50%,66%,32,24,5,11,84%,70%,59%,43%,208,211,186,189,153,153,29%,20%,39%,29%,188,159,78,59,45,74,88%,60%
+Second,Grigor Dimitrov,6-3 6-3 7-6(11),2014,m,Grigor Dimitrov,Yen-Hsun Lu,BUL,TPE,59%,70%,15,2,7,2,86%,58%,46%,54%,216,194,196,178,151,151,24%,50%,43%,30%,117,95,36,23,35,46,56%,72%
+Second,Feliciano Lopez,6-3 7-6(6) 6-4,2014,m,Feliciano Lopez,Michael Berrer,ESP,GER,62%,68%,8,6,3,3,75%,66%,62%,52%,,,,,,,36%,50%,38%,30%,108,93,43,29,24,25,81%,61%
+Second,Andy Murray,6-2 6-2 7-5,2014,m,Andy Murray,Vincent Millot,GBR,FRA,59%,55%,5,2,5,7,80%,46%,55%,44%,207,196,172,175,143,143,47%,75%,55%,31%,106,68,25,22,31,55,100%,60%
+Second,Milos Raonic,7-6(9) 6-4 6-4,2014,m,Milos Raonic,Victor Hanescu,CAN,ROU,64%,67%,27,6,2,1,85%,72%,62%,59%,,,,,,,33%,0%,32%,23%,116,101,63,23,36,23,68%,70%
+Second,Kei Nishikori,6-1 6-1 7-6(3),2014,m,Kei Nishikori,Dusan Lajovic,JPN,SRB,64%,70%,5,7,3,3,83%,58%,52%,30%,197,203,174,167,140,140,50%,20%,51%,28%,104,68,30,17,27,49,71%,57%
+Second,Florian Mayer,6-4 3-6 6-3 3-6 6-3,2014,m,Florian Mayer,Mikhail Youzhny,GER,RUS,60%,55%,19,14,3,5,78%,74%,65%,59%,200,191,178,179,150,150,36%,43%,33%,28%,136,126,48,48,41,46,69%,67%
+Second,Vasek Pospisil,3-6 7-6(6) 7-6(9) 6-1,2014,m,Vasek Pospisil,Matthew Ebden,CAN,AUS,60%,68%,13,8,3,3,77%,75%,61%,48%,210,196,190,174,149,149,80%,27%,34%,30%,132,121,46,30,47,43,64%,74%
+Second,Jerzy Janowicz,4-6 7-6(3) 7-6(5) 6-3,2014,m,Jerzy Janowicz,Pablo Andujar,POL,ESP,67%,79%,15,11,5,1,71%,64%,48%,67%,224,186,194,171,144,144,27%,27%,35%,36%,151,149,63,57,47,28,61%,65%
+Second,Tomas Berdych,6-4 6-1 6-3,2014,m,Tomas Berdych,Kenny de Schepper,CZE,FRA,64%,63%,5,8,4,9,88%,62%,63%,32%,213,218,188,185,169,169,63%,-,49%,21%,93,57,29,29,13,32,84%,56%
+Second,Sam Querrey,6-2 6-3 6-4,2014,m,Sam Querrey,Ernests Gulbis,USA,LAT,72%,46%,19,7,4,4,88%,66%,55%,51%,220,220,200,204,170,170,56%,33%,42%,21%,88,59,30,19,21,41,55%,55%
+Second,Novak Djokovic,6-0 6-4 6-4,2014,m,Novak Djokovic,Leonardo Mayer,SRB,ARG,66%,52%,12,3,2,7,82%,64%,74%,41%,202,207,179,194,171,171,83%,-,47%,21%,93,59,30,14,11,39,56%,64%
+Second,Kevin Anderson,6-4 6-3 6-4,2014,m,Kevin Anderson,Dominic Thiem,RSA,AUT,65%,59%,15,10,5,3,83%,76%,64%,52%,218,215,199,190,150,150,60%,0%,34%,24%,87,69,30,28,22,21,80%,40%
+Second,Stanislas Wawrinka,6-3 6-3 6-7(4) 6-4,2014,m,Stanislas Wawrinka,Alejandro Falla,SUI,COL,56%,60%,9,1,4,3,83%,69%,56%,46%,214,197,180,176,135,135,35%,29%,40%,29%,142,117,61,26,46,37,79%,62%
+Second,David Ferrer,7-6(2) 5-7 6-0 6-3,2014,m,David Ferrer,Adrian Mannarino,ESP,FRA,68%,55%,0,5,4,1,70%,58%,47%,41%,187,199,174,170,139,139,53%,50%,50%,37%,142,113,32,32,48,73,95%,58%
+Second,Tommy Robredo,6-3 6-7(4) 6-1 7-6(6),2014,m,Tommy Robredo,Julien Benneteau,ESP,FRA,58%,62%,17,14,3,6,74%,71%,63%,46%,207,205,184,182,151,151,31%,9%,39%,30%,159,138,66,64,25,65,76%,65%
+Second,Fabio Fognini,7-5 6-4 3-6 6-2,2014,m,Fabio Fognini,Jarkko Nieminen,ITA,FIN,58%,65%,9,3,12,5,74%,66%,48%,50%,207,199,179,172,128,128,33%,13%,39%,37%,144,134,51,24,60,37,82%,63%
+Second,Denis Istomin,7-6(3) 4-6 6-1 6-4,2014,m,Denis Istomin,Dmitry Tursunov,UZB,RUS,54%,53%,14,5,1,5,73%,74%,67%,48%,201,209,179,187,143,143,63%,30%,38%,30%,127,106,46,31,34,44,78%,63%
+Second,Edouard Roger-Vasselin,7-6(1) 6-4 4-6 6-1,2014,m,Edouard Roger-Vasselin,Guillermo Garcia-Lopez,FRA,ESP,57%,51%,11,9,2,10,70%,72%,54%,43%,,,,,,,41%,31%,42%,37%,130,117,11,9,2,10,,
+Second,Jeremy Chardy,7-5 7-6(5) 6-7(3) 7-6(5),2014,m,Jeremy Chardy,Alexandr Dolgopolov,FRA,UKR,60%,71%,22,15,10,2,77%,70%,46%,47%,215,210,197,171,136,136,36%,33%,37%,35%,164,160,76,43,73,36,63%,79%
+Second,Damir Dzumhur,4-6 4-6 6-3 4-1 ret.,2014,m,Damir Dzumhur,Ivan Dodig,BIH,CRO,51%,55%,7,13,6,2,75%,76%,57%,49%,,,,,,,60%,43%,36%,34%,95,91,33,37,27,43,67%,63%
+Second,Richard Gasquet,7-6(3) 6-4 6-4,2014,m,Richard Gasquet,Nikolay Davydenko,FRA,RUS,58%,77%,9,6,5,1,71%,59%,50%,44%,201,207,177,163,143,143,55%,80%,45%,38%,110,97,33,39,37,43,67%,75%
+First,Rafael Nadal,6-4 ret.,2014,m,Rafael Nadal,Bernard Tomic,ESP,AUS,62%,71%,5,3,1,1,88%,75%,60%,38%,203,210,181,186,143,143,100%,-,36%,23%,30,24,13,13,5,7,100%,60%
+First,Roger Federer,6-4 6-4 6-2,2014,m,Roger Federer,James Duckworth,SUI,AUS,58%,52%,11,13,5,3,89%,75%,58%,43%,207,216,185,176,162,162,24%,0%,40%,24%,96,74,30,34,17,38,82%,56%
+First,Teimuraz Gabashvili,6-7(3) 6-4 6-2 6-0,2014,m,Teimuraz Gabashvili,Sergiy Stakhovsky,RUS,UKR,58%,55%,5,14,4,8,74%,69%,50%,36%,,,,,,,53%,50%,46%,36%,133,112,5,14,4,8,,
+First,Feliciano Lopez,6-4 6-4 7-6(2),2014,m,Feliciano Lopez,Somdev Devvarman,ESP,IND,65%,52%,12,6,2,1,81%,63%,55%,56%,,,,,,,57%,29%,40%,28%,110,89,12,6,2,1,,
+First,Gael Monfils,6-4 6-4 6-4,2014,m,Gael Monfils,Ryan Harrison,FRA,USA,64%,62%,9,2,5,1,86%,72%,64%,49%,220,226,191,195,165,165,75%,-,37%,22%,95,76,43,19,27,23,82%,65%
+First,Marin Cilic,4-6 4-6 6-3 6-3 6-2,2014,m,Marin Cilic,Marcel Granollers,CRO,ESP,58%,61%,22,13,4,4,81%,70%,60%,47%,219,207,188,181,146,146,63%,67%,39%,28%,145,124,63,41,53,34,68%,69%
+First,Martin Klizan,6-2 7-6(6) ret.,2014,m,Martin Klizan,John Isner,SVK,USA,54%,78%,9,10,2,0,83%,69%,81%,40%,198,215,176,187,161,161,40%,0%,37%,18%,71,52,27,23,10,23,33%,50%
+First,Jack Sock,7-6(5) 5-7 6-2 6-4,2014,m,Jack Sock,Tobias Kamke,USA,GER,50%,49%,16,6,12,8,73%,77%,58%,51%,,,,,,,40%,17%,36%,34%,146,138,16,6,12,8,,
+First,Vincent Millot,7-5 4-6 6-7(4) 6-1 6-3,2014,m,Vincent Millot,Wayne Odesnik,FRA,USA,57%,67%,18,11,9,2,66%,60%,48%,41%,,,,,,,42%,35%,46%,42%,173,158,54,39,68,73,73%,59%
+First,Thanasi Kokkinakis,7-6(4) 0-6 7-6(3) 6-2,2014,m,Thanasi Kokkinakis,Igor Sijsling,AUS,NED,54%,59%,8,20,9,5,70%,78%,53%,45%,204,207,185,187,142,142,60%,44%,36%,38%,135,135,54,53,45,47,61%,64%
+First,Fernando Verdasco,5-7 6-3 6-2 6-3,2014,m,Fernando Verdasco,Ze Zhang,ESP,CHN,61%,58%,20,7,6,6,84%,69%,53%,53%,221,210,188,188,155,155,36%,20%,38%,28%,125,101,44,20,40,48,64%,59%
+First,Victor Hanescu,7-6(5) 7-6(5) 6-3,2014,m,Victor Hanescu,Peter Gojowczyk,ROU,GER,66%,55%,9,8,4,6,76%,77%,56%,47%,,,,,,,33%,17%,37%,31%,121,103,24,36,34,59,83%,71%
+First,Stephane Robert,7-6(3) 6-3 6-0,2014,m,Stephane Robert,Aljaz Bedene,FRA,SLO,46%,54%,4,16,2,11,76%,69%,55%,18%,,,,,,,53%,80%,54%,35%,104,74,22,28,22,52,92%,60%
+First,Roberto Bautista-Agut,6-2 6-1 6-1,2014,m,Roberto Bautista-Agut,Tim Smyczek,ESP,USA,82%,61%,1,8,1,5,74%,52%,64%,29%,,,,,,,44%,50%,57%,28%,95,55,1,8,1,5,,
+First,Jo-Wilfried Tsonga,7-5 6-3 6-3,2014,m,Jo-Wilfried Tsonga,Filippo Volandri,FRA,ITA,62%,57%,15,2,1,6,73%,63%,74%,47%,213,180,184,169,142,142,38%,50%,44%,27%,104,77,36,28,25,39,80%,65%
+First,Juan Martin Del Potro,6-7(1) 6-3 6-4 6-4,2014,m,Juan Martin Del Potro,Rhyne Williams,ARG,USA,64%,57%,16,29,3,1,84%,80%,56%,51%,216,212,192,186,144,144,50%,50%,32%,26%,122,107,46,55,29,39,75%,67%
+First,Donald Young,6-7(4) 7-6(2) 6-2 1-0 ret.,2014,m,Donald Young,Robin Haase,USA,NED,73%,67%,0,11,5,6,75%,67%,55%,44%,,,,,,,29%,25%,40%,30%,124,106,34,38,33,56,73%,87%
+First,Blaz Kavcic,6-7(3) 4-6 6-1 2-0 ret.,2014,m,Blaz Kavcic,Radek Stepanek,SLO,CZE,63%,51%,10,5,6,11,66%,60%,58%,48%,,,,,,,43%,36%,46%,37%,121,104,41,51,27,54,40%,69%
+First,Andreas Seppi,7-6(4) 6-3 5-7 5-7 7-5,2014,m,Andreas Seppi,Lleyton Hewitt,ITA,AUS,59%,51%,17,23,5,5,70%,84%,55%,44%,201,194,177,172,139,139,39%,54%,36%,36%,175,178,67,54,59,61,73%,57%
+First,Thomaz Bellucci,4-6 6-3 7-6(5) ret.,2014,m,Thomaz Bellucci,Julian Reister,BRA,GER,53%,60%,8,4,6,9,75%,75%,51%,43%,,,,,,,57%,50%,38%,36%,98,93,33,21,37,36,82%,42%
+First,Kei Nishikori,6-3 5-7 6-2 4-6 6-2,2014,m,Kei Nishikori,Marinko Matosevic,JPN,AUS,66%,61%,6,14,6,9,72%,66%,52%,43%,198,194,173,176,143,143,47%,33%,43%,35%,167,147,44,46,50,63,69%,53%
+First,Yen-Hsun Lu,6-3 6-2 6-1,2014,m,Yen-Hsun Lu,Jimmy Wang,TPE,TPE,62%,63%,9,1,5,3,70%,50%,38%,32%,,,,,,,47%,43%,56%,42%,101,76,9,1,5,3,,
+First,Milos Raonic,7-6(2) 6-1 4-6 6-2,2014,m,Milos Raonic,Daniel Gimeno-Traver,CAN,ESP,64%,56%,21,5,7,5,86%,63%,47%,46%,226,195,197,175,144,144,35%,50%,44%,28%,127,96,48,22,29,33,70%,67%
+First,Grigor Dimitrov,6-7(7) 6-4 6-4 6-3,2014,m,Grigor Dimitrov,Bradley Klahn,BUL,USA,57%,58%,14,10,4,9,89%,72%,65%,51%,,,,,,,50%,-,37%,21%,133,105,14,10,4,9,,
+First,Benoit Paire,7-6(12) 6-3 6-4,2014,m,Benoit Paire,Frank Dancevic,FRA,CAN,57%,59%,24,12,6,3,90%,73%,48%,45%,209,203,182,175,145,145,25%,25%,38%,28%,117,97,58,36,25,14,63%,47%
+First,Dusan Lajovic,6-4 7-6(9) 4-6 6-3,2014,m,Dusan Lajovic,Lucas Pouille,SRB,FRA,61%,61%,7,2,7,10,66%,66%,58%,42%,,,,,,,50%,50%,43%,37%,141,126,28,41,57,88,47%,59%
+First,Blaz Rola,6-4 6-2 7-5,2014,m,Blaz Rola,Federico Delbonis,SLO,ARG,68%,63%,6,4,8,1,83%,66%,39%,47%,,,,,,,44%,0%,41%,31%,108,86,6,4,8,1,,
+First,Nick Kyrgios,6-3 6-7(5) 6-2 7-6(2),2014,m,Nick Kyrgios,Benjamin Becker,AUS,GER,54%,53%,34,12,13,5,91%,68%,44%,53%,215,217,195,186,148,148,75%,43%,39%,31%,133,114,71,38,52,36,63%,100%
+First,Michal Przysiezny,6-3 7-6(4) 7-5,2014,m,Michal Przysiezny,Horacio Zeballos,POL,ARG,69%,60%,15,11,0,4,79%,72%,61%,45%,,,,,,,63%,50%,39%,27%,104,85,15,11,0,4,,
+First,Andy Murray,6-1 6-1 6-3,2014,m,Andy Murray,Go Soeda,GBR,JPN,69%,61%,12,6,2,3,80%,62%,61%,21%,208,195,181,176,144,144,54%,-,54%,25%,84,49,32,23,13,33,80%,69%
+First,Michael Berrer,6-4 7-5 6-1,2014,m,Michael Berrer,Michael Llodra,GER,FRA,63%,72%,9,10,6,5,85%,68%,70%,44%,,,,,,,42%,0%,39%,21%,95,74,9,10,6,5,,
+First,David Ferrer,6-3 6-4 6-4,2014,m,David Ferrer,Alejandro Gonzalez,ESP,COL,53%,68%,2,2,6,4,64%,57%,54%,25%,193,199,175,186,142,142,67%,71%,53%,41%,96,75,33,22,30,41,82%,52%
+First,Jarkko Nieminen,3-6 7-6(3) 6-7(3) 6-3 6-3,2014,m,Jarkko Nieminen,Dudi Sela,FIN,ISR,60%,68%,2,5,6,3,63%,63%,48%,44%,,,,,,,59%,53%,43%,43%,173,173,57,41,72,50,69%,47%
+First,Nikolay Davydenko,3-6 6-3 3-6 6-3 6-4,2014,m,Nikolay Davydenko,Lukasz Kubot,RUS,POL,77%,60%,6,8,4,12,73%,68%,35%,37%,,,,,,,29%,43%,45%,36%,162,141,6,8,4,12,,
+First,Dmitry Tursunov,6-2 6-2 6-3,2014,m,Dmitry Tursunov,Michael Russell,RUS,USA,53%,50%,8,1,6,8,75%,57%,51%,45%,,,,,,,67%,14%,49%,36%,104,79,8,1,6,8,,
+First,Julien Benneteau,6-3 3-6 4-6 6-1 6-2,2014,m,Julien Benneteau,Pablo Carreno-Busta,FRA,ESP,66%,53%,16,7,4,7,71%,59%,55%,51%,,,,,,,37%,80%,45%,34%,152,126,49,47,46,58,70%,58%
+First,Edouard Roger-Vasselin,6-4 7-6(5) 6-7(9) 6-2,2014,m,Edouard Roger-Vasselin,Carlos Berlocq,FRA,ARG,65%,57%,6,9,6,4,61%,59%,54%,52%,,,,,,,44%,31%,44%,41%,163,150,6,9,6,4,,
+First,Tommy Robredo,6-1 6-7(7) 3-6 7-6(5) 8-6,2014,m,Tommy Robredo,Lukas Rosol,ESP,CZE,57%,51%,13,11,0,12,76%,77%,69%,45%,,,,,,,33%,43%,39%,27%,177,152,50,82,38,96,79%,64%
+First,Richard Gasquet,7-5 6-4 6-1,2014,m,Richard Gasquet,David Guez,FRA,FRA,67%,64%,12,3,0,0,74%,53%,50%,44%,197,179,171,165,131,131,70%,43%,50%,34%,94,67,32,20,20,39,73%,36%
+First,Tomas Berdych,6-3 6-4 6-3,2014,m,Tomas Berdych,Aleksandr Nedovesov,CZE,KAZ,66%,61%,9,8,0,2,83%,65%,79%,47%,218,213,196,183,141,141,29%,0%,42%,18%,97,67,35,22,17,37,57%,69%
+First,Florian Mayer,6-4 6-2 6-4,2014,m,Florian Mayer,Denis Kudla,GER,USA,58%,59%,6,1,1,2,75%,61%,63%,46%,,,,,,,45%,33%,45%,30%,101,78,25,31,23,45,79%,60%
+First,Guillermo Garcia-Lopez,7-5 5-2 ret.,2014,m,Guillermo Garcia-Lopez,Tommy Haas,ESP,GER,58%,52%,7,4,3,7,77%,71%,44%,38%,194,194,180,178,154,154,100%,50%,45%,37%,65,55,19,18,9,35,60%,100%
+First,Stanislas Wawrinka,6-4 4-1 ret.,2014,m,Stanislas Wawrinka,Andrey Golubev,SUI,KAZ,63%,64%,4,0,1,0,91%,50%,46%,50%,213,202,189,174,148,148,44%,50%,50%,26%,54,37,23,8,11,15,93%,50%
+First,Alejandro Falla,6-7(2) 6-2 6-2 6-3,2014,m,Alejandro Falla,Mikhail Kukushkin,COL,KAZ,60%,55%,4,2,2,3,68%,64%,47%,33%,,,,,,,36%,29%,50%,41%,151,128,4,2,2,3,,
+First,Pablo Andujar,6-4 6-2 6-4,2014,m,Pablo Andujar,Albert Ramos,ESP,ESP,73%,61%,2,2,1,3,61%,63%,63%,30%,,,,,,,58%,43%,50%,39%,97,77,2,2,1,3,,
+First,Denis Istomin,6-4 7-5 6-4,2014,m,Denis Istomin,Marcos Baghdatis,UZB,CYP,77%,52%,9,8,1,4,70%,80%,63%,33%,202,207,182,187,143,143,31%,11%,43%,31%,126,106,41,37,41,50,75%,70%
+First,Fabio Fognini,6-3 6-2 ret.,2014,m,Fabio Fognini,Alex Jr. Bogomolov,ITA,RUS,47%,54%,3,0,4,11,69%,58%,52%,33%,,,,,,,30%,33%,54%,40%,78,61,21,11,31,46,67%,67%
+First,Novak Djokovic,6-3 7-6(2) 6-1,2014,m,Novak Djokovic,Lukas Lacko,SRB,SVK,68%,61%,10,5,0,1,83%,63%,68%,50%,202,201,190,182,153,153,50%,33%,42%,22%,101,70,40,17,30,29,89%,73%
+First,Mikhail Youzhny,6-1 6-4 6-2,2014,m,Mikhail Youzhny,Jan-Lennard Struff,RUS,GER,69%,49%,5,2,2,8,66%,65%,63%,32%,,,,,,,78%,40%,52%,35%,95,66,11,20,30,61,63%,68%
+First,Kevin Anderson,2-6 6-7(4) 6-4 6-4 6-4,2014,m,Kevin Anderson,Jiri Vesely,RSA,CZE,63%,57%,21,16,9,10,83%,75%,52%,61%,,,,,,,21%,33%,31%,29%,154,154,21,16,9,10,,
+First,Ernests Gulbis,1-6 6-4 7-6(4) 6-2,2014,m,Ernests Gulbis,Juan Monaco,LAT,ARG,53%,76%,17,0,11,4,78%,75%,47%,44%,223,192,208,166,142,142,60%,25%,32%,37%,127,128,59,16,79,35,57%,69%
+First,Alexandr Dolgopolov,7-5 7-5 6-2,2014,m,Alexandr Dolgopolov,Richard Berankis,UKR,LTU,58%,50%,7,10,4,3,79%,68%,61%,46%,207,196,183,183,146,146,31%,33%,43%,29%,114,91,37,28,31,38,100%,55%
+First,Leonardo Mayer,6-1 6-3 6-1,2014,m,Leonardo Mayer,Albert Montanes,ARG,ESP,61%,60%,13,1,1,4,94%,56%,62%,33%,,,,,,,50%,-,53%,19%,80,42,13,1,1,4,,
+First,Kenny de Schepper,7-5 7-5 7-6(2),2014,m,Kenny de Schepper,Di Wu,FRA,CHN,62%,60%,19,3,13,5,76%,61%,40%,58%,214,189,184,160,128,128,36%,15%,40%,38%,134,125,58,33,66,36,66%,66%
+First,Adrian Mannarino,3-6 6-3 6-0 5-7 6-4,2014,m,Adrian Mannarino,Steve Johnson,FRA,USA,58%,53%,3,21,3,12,64%,72%,63%,45%,,,,,,,64%,67%,40%,36%,142,129,3,21,3,12,,
+First,Vasek Pospisil,6-4 6-3 6-4,2014,m,Vasek Pospisil,Samuel Groth,CAN,AUS,67%,65%,6,16,4,4,90%,67%,52%,52%,204,234,191,192,166,166,40%,0%,39%,23%,94,74,31,35,17,25,60%,47%
+First,Matthew Ebden,6-3 7-5 4-6 0-6 6-3,2014,m,Matthew Ebden,Nicolas Mahut,AUS,FRA,67%,64%,7,7,7,4,66%,72%,52%,47%,211,202,176,186,153,153,50%,40%,37%,39%,131,137,45,49,55,57,76%,52%
+First,Dominic Thiem,5-7 6-4 6-3 7-6(3),2014,m,Dominic Thiem,Joao Sousa,AUT,POR,55%,65%,20,8,3,0,79%,61%,51%,60%,,,,,,,42%,38%,40%,34%,148,133,20,8,3,0,,
+First,Jerzy Janowicz,1-6 4-6 6-4 6-2 6-1,2014,m,Jerzy Janowicz,Jordan Thompson,POL,AUS,64%,60%,18,13,11,8,72%,73%,46%,40%,226,213,196,186,152,152,56%,30%,40%,38%,153,140,62,40,64,36,67%,64%
+First,Damir Dzumhur,6-4 6-2 6-1,2014,m,Damir Dzumhur,Jan Hajek,BIH,CZE,53%,73%,4,2,3,6,86%,52%,59%,27%,,,,,,,58%,50%,55%,26%,95,55,4,2,3,6,,
+First,Ivan Dodig,7-6(8) 6-3 7-6(4),2014,m,Ivan Dodig,Ivo Karlovic,CRO,CRO,83%,66%,8,25,2,1,82%,82%,71%,53%,,,,,,,67%,33%,28%,20%,108,93,41,48,7,27,69%,48%
+First,Sam Querrey,6-3 6-2 3-6 7-6(3),2014,m,Sam Querrey,Santiago Giraldo,USA,COL,63%,65%,24,9,4,3,81%,70%,51%,55%,213,203,180,175,136,136,57%,29%,35%,30%,122,108,47,35,45,41,82%,50%

@@ -1,0 +1,127 @@
+round,winner,results,year,gender,player1,player2,country1,country2,firstServe1,firstServe2,ace1,ace2,double1,double2,firstPointWon1,firstPointWon2,secPointWon1,secPointWon2,fastServe1,fastServe2,avgFirstServe1,avgFirstServe2,avgSecServe1,avgSecServe2,break1,break2,return1,return2,total1,total2,winner1,winner2,error1,error2,net1,net2
+Final,Novak Djokovic,6-7(2) 7-6(3) 6-3 6-2,2013,m,Novak Djokovic,Andy Murray,SRB,GBR,63%,60%,8,7,3,5,75%,81%,66%,46%,209,211,188,186,155,133,27%,0%,33%,28%,139,126,47,29,61,46,85%,60%
+semi,Andy Murray,6-4 6-7(5) 6-3 6-7(2) 6-2,2013,m,Andy Murray,Roger Federer,GBR,SUI,64%,61%,21,5,0,2,75%,73%,63%,42%,215,205,192,186,140,155,38%,33%,39%,29%,177,151,62,43,47,60,67%,66%
+semi,Novak Djokovic,6-2 6-2 6-1,2013,m,Novak Djokovic,David Ferrer,SRB,ESP,63%,60%,6,1,0,3,91%,56%,79%,30%,203,197,188,182,154,148,100%,-,55%,14%,85,41,30,11,16,32,81%,33%
+quarter,Andy Murray,6-4 6-1 6-2,2013,m,Andy Murray,Jeremy Chardy,GBR,FRA,68%,68%,7,6,1,3,80%,60%,29%,20%,207,215,187,199,141,164,73%,40%,53%,36%,89,63,32,25,20,30,85%,59%
+quarter,Roger Federer,7-6(4) 4-6 7-6(4) 3-6 6-3,2013,m,Roger Federer,Jo-Wilfried Tsonga,SUI,FRA,61%,67%,6,20,3,1,77%,75%,56%,47%,207,218,189,194,156,147,22%,56%,34%,31%,169,164,49,66,47,61,72%,66%
+quarter,Novak Djokovic,6-1 4-6 6-1 6-4,2013,m,Novak Djokovic,Tomas Berdych,SRB,CZE,67%,60%,10,8,2,5,78%,66%,63%,42%,203,211,184,193,152,158,43%,25%,44%,27%,118,86,47,31,25,43,85%,73%
+quarter,David Ferrer,4-6 4-6 7-5 7-6(4) 6-2,2013,m,David Ferrer,Nicolas Almagro,ESP,ESP,69%,47%,16,15,0,4,72%,73%,50%,47%,190,221,175,198,144,149,38%,58%,41%,35%,165,150,44,51,51,75,80%,73%
+Fourth,Roger Federer,6-4 7-6(4) 6-2,2013,m,Roger Federer,Milos Raonic,SUI,CAN,64%,67%,14,19,1,5,90%,70%,75%,50%,207,233,189,207,155,165,43%,-,36%,15%,101,73,34,37,12,41,93%,60%
+Fourth,Jeremy Chardy,5-7 6-3 6-2 6-2,2013,m,Jeremy Chardy,Andreas Seppi,FRA,ITA,65%,63%,11,9,10,3,77%,69%,47%,36%,216,201,199,183,162,146,40%,18%,43%,34%,133,110,47,34,42,44,83%,68%
+Fourth,Jo-Wilfried Tsonga,6-4 3-6 6-3 6-2,2013,m,Jo-Wilfried Tsonga,Richard Gasquet,FRA,FRA,55%,58%,9,7,1,4,81%,78%,56%,49%,225,205,197,181,147,147,44%,14%,34%,30%,109,99,37,32,36,31,68%,80%
+Fourth,Andy Murray,6-3 6-1 6-3,2013,m,Andy Murray,Gilles Simon,GBR,FRA,62%,67%,12,1,0,2,77%,57%,58%,30%,213,194,179,160,136,138,53%,100%,52%,30%,91,62,32,21,26,41,74%,63%
+Fourth,David Ferrer,6-2 6-1 6-4,2013,m,David Ferrer,Kei Nishikori,ESP,JPN,68%,61%,6,1,3,3,69%,53%,48%,32%,192,195,177,176,142,139,64%,15%,55%,38%,112,79,24,30,24,65,69%,75%
+Fourth,Tomas Berdych,6-3 6-2 7-6(13),2013,m,Tomas Berdych,Kevin Anderson,CZE,RSA,52%,68%,6,11,2,1,79%,64%,54%,43%,207,210,188,190,150,158,42%,29%,42%,33%,122,101,39,38,28,42,72%,61%
+Fourth,Nicolas Almagro,6-2 5-1 ret.,2013,m,Nicolas Almagro,Janko Tipsarevic,ESP,SRB,51%,52%,6,2,1,0,86%,58%,62%,32%,219,197,202,187,158,145,44%,0%,54%,26%,57,32,24,8,17,22,83%,40%
+Fourth,Novak Djokovic,1-6 7-5 6-4 6-7(5) 12-10,2013,m,Novak Djokovic,Stanislas Wawrinka,SRB,SUI,66%,62%,7,16,5,2,71%,68%,55%,52%,205,222,188,194,145,158,47%,39%,38%,34%,209,200,51,69,66,93,75%,69%
+Third,Gilles Simon,6-4 6-4 4-6 1-6 8-6,2013,m,Gilles Simon,Gael Monfils,FRA,FRA,69%,66%,0,9,4,11,56%,67%,54%,43%,203,205,145,170,128,152,32%,36%,41%,45%,169,179,45,49,84,94,59%,58%
+Third,Roger Federer,6-4 7-6(5) 6-1,2013,m,Roger Federer,Bernard Tomic,SUI,AUS,69%,69%,11,8,4,2,88%,67%,45%,42%,207,211,187,189,156,151,19%,0%,40%,25%,120,96,46,42,20,41,87%,77%
+Third,Milos Raonic,7-6(4) 6-3 6-4,2013,m,Milos Raonic,Philipp Kohlschreiber,CAN,GER,65%,52%,23,5,1,3,82%,71%,77%,64%,228,202,203,182,169,148,50%,-,32%,20%,99,81,44,19,38,27,52%,56%
+Third,Andreas Seppi,6-7(2) 6-3 2-6 6-4 6-2,2013,m,Andreas Seppi,Marin Cilic,ITA,CRO,56%,50%,6,13,5,5,71%,75%,43%,41%,195,205,178,187,136,141,53%,37%,42%,41%,152,146,36,38,66,67,59%,69%
+Third,Jo-Wilfried Tsonga,6-2 6-1 6-4,2013,m,Jo-Wilfried Tsonga,Blaz Kavcic,FRA,SLO,71%,68%,7,1,0,4,76%,42%,65%,58%,217,198,194,179,143,149,78%,20%,53%,28%,89,54,45,8,24,23,78%,50%
+Third,Richard Gasquet,4-6 6-3 7-6(2) 6-0,2013,m,Richard Gasquet,Ivan Dodig,FRA,CRO,56%,54%,10,9,1,3,87%,67%,49%,47%,207,208,181,180,151,145,38%,40%,42%,29%,127,99,48,39,28,47,71%,68%
+Third,Jeremy Chardy,6-3 6-3 6-7(3) 3-6 6-3,2013,m,Jeremy Chardy,Juan Martin Del Potro,FRA,ARG,58%,67%,20,13,7,3,78%,74%,52%,51%,212,208,198,190,159,152,29%,29%,34%,33%,157,151,78,36,64,35,70%,44%
+Third,Andy Murray,6-3 6-4 7-5,2013,m,Andy Murray,Richard Berankis,GBR,LTU,68%,57%,13,6,0,3,71%,62%,38%,41%,210,209,175,186,136,156,46%,25%,47%,39%,110,91,24,37,27,47,61%,87%
+Third,Tomas Berdych,6-3 6-2 6-2,2013,m,Tomas Berdych,Jurgen Melzer,CZE,AUT,64%,66%,12,3,1,1,82%,57%,63%,39%,214,195,194,172,156,152,50%,0%,49%,25%,97,61,42,26,19,29,73%,68%
+Third,David Ferrer,6-4 6-2 6-3,2013,m,David Ferrer,Marcos Baghdatis,ESP,CYP,64%,57%,5,4,1,1,69%,53%,58%,52%,192,207,176,190,144,145,67%,40%,47%,35%,91,70,25,16,30,42,75%,55%
+Third,Stanislas Wawrinka,7-6(6) 7-5 6-4,2013,m,Stanislas Wawrinka,Sam Querrey,SUI,USA,53%,68%,13,11,5,3,84%,79%,57%,44%,217,215,196,196,159,153,38%,25%,32%,29%,111,105,45,43,31,29,71%,71%
+Third,Novak Djokovic,6-4 6-3 7-5,2013,m,Novak Djokovic,Radek Stepanek,SRB,CZE,66%,69%,7,4,1,3,86%,69%,66%,42%,204,203,187,186,153,156,27%,0%,39%,21%,109,83,37,26,19,37,68%,54%
+Third,Kevin Anderson,4-6 6-3 4-6 7-6(4) 6-2,2013,m,Kevin Anderson,Fernando Verdasco,RSA,ESP,76%,67%,9,5,4,4,76%,68%,46%,55%,214,210,196,178,171,155,36%,44%,36%,31%,160,149,55,52,46,42,67%,84%
+Third,Kei Nishikori,7-6(3) 6-2 6-3,2013,m,Kei Nishikori,Evgeny Donskoy,JPN,RUS,68%,55%,7,5,1,1,77%,69%,65%,41%,191,200,170,179,137,145,57%,25%,43%,27%,111,78,29,13,33,37,100%,50%
+Third,Janko Tipsarevic,3-6 6-4 2-6 6-4 6-3,2013,m,Janko Tipsarevic,Julien Benneteau,SRB,FRA,53%,63%,13,12,1,3,67%,73%,70%,53%,203,199,185,175,142,141,30%,75%,34%,32%,138,136,48,47,46,55,62%,64%
+Third,Nicolas Almagro,7-6(3) 7-6(4) 6-1,2013,m,Nicolas Almagro,Jerzy Janowicz,ESP,POL,56%,70%,18,11,0,2,86%,81%,73%,41%,216,219,194,193,146,152,22%,-,31%,20%,103,84,34,27,25,45,56%,58%
+Second,Gael Monfils,7-6(5) 4-6 0-6 6-1 8-6,2013,m,Gael Monfils,Yen-Hsun Lu,FRA,TPE,57%,65%,29,10,23,5,77%,75%,42%,46%,217,200,187,188,157,152,50%,50%,35%,38%,159,167,59,45,72,49,73%,62%
+Second,Marin Cilic,7-5 6-2 6-4,2013,m,Marin Cilic,Rajeev Ram,CRO,USA,57%,71%,9,1,2,1,91%,67%,67%,41%,202,202,182,186,140,147,31%,-,40%,20%,99,71,45,16,22,27,82%,71%
+Second,Ivan Dodig,6-3 6-7(4) 6-3 6-7(4) 6-1,2013,m,Ivan Dodig,Jarkko Nieminen,CRO,FIN,62%,64%,33,9,4,3,83%,73%,49%,49%,,,,,0,0,50%,6%,35%,30%,177,149,33,9,4,3,,
+Second,Blaz Kavcic,3-6 6-3 6-4 6-7(3) 10-8,2013,m,Blaz Kavcic,James Duckworth,SLO,AUS,60%,59%,22,25,8,6,78%,73%,47%,44%,203,225,184,190,147,151,29%,33%,39%,34%,200,180,71,76,48,72,65%,67%
+Second,Jeremy Chardy,6-3 3-6 6-1 6-2,2013,m,Jeremy Chardy,Marcel Granollers,FRA,ESP,72%,76%,7,5,6,4,80%,65%,48%,45%,219,216,197,175,163,140,45%,13%,40%,29%,112,86,45,18,40,19,64%,70%
+Second,Richard Berankis,6-2 6-3 6-1,2013,m,Richard Berankis,Florian Mayer,LTU,GER,54%,64%,5,4,0,3,82%,65%,69%,27%,205,191,189,179,158,143,60%,0%,49%,24%,88,54,36,14,18,23,67%,56%
+Second,Milos Raonic,7-6(2) 6-2 6-3,2013,m,Milos Raonic,Lukas Rosol,CAN,CZE,64%,48%,18,13,6,6,87%,67%,59%,50%,,,,,0,0,63%,33%,42%,23%,102,75,18,13,6,6,,
+Second,Bernard Tomic,6-7(4) 7-5 7-6(3) 7-6(8),2013,m,Bernard Tomic,Daniel Brands,AUS,GER,77%,66%,26,23,3,4,78%,76%,59%,65%,207,217,183,203,147,160,14%,0%,28%,26%,153,154,59,73,34,41,71%,79%
+Second,Gilles Simon,2-6 6-3 7-6(4) 6-2,2013,m,Gilles Simon,Jesse Levine,FRA,CAN,52%,60%,12,7,8,5,78%,69%,50%,47%,202,201,172,176,134,149,33%,30%,40%,35%,135,121,46,39,55,67,63%,74%
+Second,Andy Murray,6-2 6-2 6-4,2013,m,Andy Murray,Joao Sousa,GBR,POR,58%,62%,14,3,0,1,80%,63%,66%,45%,212,196,180,183,136,151,63%,-,44%,26%,91,63,28,17,22,33,100%,53%
+Second,Juan Martin Del Potro,6-2 6-4 6-2,2013,m,Juan Martin Del Potro,Benjamin Becker,ARG,GER,73%,52%,22,10,2,3,87%,68%,50%,42%,218,213,194,195,157,154,50%,0%,44%,23%,93,61,50,33,18,23,88%,73%
+Second,Philipp Kohlschreiber,6-2 7-6(4) 6-4,2013,m,Philipp Kohlschreiber,Amir Weintraub,GER,ISR,60%,72%,12,8,0,3,91%,71%,66%,50%,209,204,181,183,150,145,50%,0%,35%,19%,104,78,40,31,14,40,70%,27%
+Second,Jo-Wilfried Tsonga,6-3 7-6(1) 6-3,2013,m,Jo-Wilfried Tsonga,Go Soeda,FRA,JPN,58%,55%,17,5,2,3,83%,74%,57%,57%,217,200,189,182,147,148,75%,25%,33%,28%,98,80,44,20,33,26,85%,68%
+Second,Roger Federer,6-3 6-4 6-4,2013,m,Roger Federer,Nikolay Davydenko,SUI,RUS,68%,66%,9,9,2,3,76%,63%,66%,47%,205,210,185,177,157,148,23%,-,42%,27%,111,86,35,17,42,39,74%,55%
+Second,Richard Gasquet,6-3 6-2 6-2,2013,m,Richard Gasquet,Alejandro Falla,FRA,COL,58%,70%,13,7,1,1,80%,59%,62%,24%,207,196,187,179,149,130,46%,50%,51%,28%,93,60,41,25,13,36,63%,57%
+Second,Andreas Seppi,7-6(4) 5-7 6-7(3) 7-6(3) 6-2,2013,m,Andreas Seppi,Denis Istomin,ITA,UZB,61%,62%,13,16,6,1,76%,76%,65%,58%,,,,,0,0,29%,14%,31%,28%,190,184,13,16,6,1,,
+Second,Kei Nishikori,7-6(4) 6-4 6-1,2013,m,Kei Nishikori,Carlos Berlocq,JPN,ARG,69%,64%,6,3,3,6,72%,60%,50%,36%,188,207,167,185,135,148,50%,60%,45%,34%,107,81,47,24,31,40,68%,62%
+Second,Tomas Berdych,6-2 6-2 6-4,2013,m,Tomas Berdych,Guillaume Rufin,CZE,FRA,63%,56%,8,6,2,7,78%,68%,63%,32%,212,205,194,191,157,155,38%,25%,44%,27%,101,73,30,19,24,38,54%,68%
+Second,David Ferrer,6-0 7-5 4-6 6-3,2013,m,David Ferrer,Tim Smyczek,ESP,USA,60%,66%,3,4,3,3,74%,61%,56%,39%,192,207,170,178,140,143,33%,30%,45%,32%,128,101,21,39,24,77,81%,75%
+Second,Julien Benneteau,4-6 7-5 7-6(5) 7-6(5),2013,m,Julien Benneteau,Edouard Roger-Vasselin,FRA,FRA,64%,69%,9,13,5,7,67%,64%,55%,45%,202,197,173,177,142,142,41%,47%,42%,37%,163,152,62,62,43,57,54%,68%
+Second,Jurgen Melzer,6-7(4) 6-3 6-7(3) 6-3 6-2,2013,m,Jurgen Melzer,Roberto Bautista-Agut,AUT,ESP,66%,77%,16,4,5,3,70%,66%,64%,61%,,,,,NULL,NULL,36%,10%,34%,31%,174,157,16,4,5,3,,
+Second,Radek Stepanek,6-2 6-2 6-4,2013,m,Radek Stepanek,Feliciano Lopez,CZE,ESP,72%,59%,13,14,2,5,79%,71%,50%,35%,196,215,180,193,149,155,56%,0%,43%,29%,92,70,31,30,14,35,59%,53%
+Second,Stanislas Wawrinka,6-3 7-6(4) ret.,2013,m,Stanislas Wawrinka,Tobias Kamke,SUI,GER,52%,60%,11,0,4,4,77%,62%,45%,47%,218,191,191,174,156,146,27%,29%,42%,37%,90,82,34,11,51,26,83%,36%
+Second,Marcos Baghdatis,3-6 6-3 6-2 6-2,2013,m,Marcos Baghdatis,Tatsuma Ito,CYP,JPN,52%,59%,6,2,2,1,73%,66%,62%,45%,208,211,187,181,149,146,35%,50%,42%,31%,113,96,25,25,32,53,57%,74%
+Second,Sam Querrey,6-7(2) 1-1 ret.,2013,m,Sam Querrey,Brian Baker,USA,USA,64%,66%,5,5,1,0,70%,71%,53%,61%,204,199,183,175,150,144,20%,25%,32%,35%,47,53,17,19,18,16,50%,79%
+Second,Evgeny Donskoy,3-6 7-6(4) 6-2 3-6 6-3,2013,m,Evgeny Donskoy,Mikhail Youzhny,RUS,RUS,64%,62%,20,4,1,4,77%,65%,57%,57%,,,,,0,0,18%,33%,37%,30%,162,151,20,4,1,4,,
+Second,Jerzy Janowicz,6-7(10) 3-6 6-1 6-0 7-5,2013,m,Jerzy Janowicz,Somdev Devvarman,POL,IND,61%,63%,15,9,12,3,70%,62%,45%,47%,221,191,195,163,154,135,45%,22%,43%,37%,172,157,91,33,88,20,65%,59%
+Second,Kevin Anderson,6-1 7-5 6-4,2013,m,Kevin Anderson,Andrey Kuznetsov,RSA,RUS,73%,60%,19,6,2,5,80%,67%,50%,46%,217,196,196,176,162,141,44%,0%,41%,28%,101,76,39,35,16,33,38%,67%
+Second,Novak Djokovic,6-1 6-2 6-3,2013,m,Novak Djokovic,Ryan Harrison,SRB,USA,73%,63%,7,6,0,3,85%,56%,87%,36%,205,223,190,196,157,163,46%,-,51%,14%,94,52,37,17,16,28,67%,27%
+Second,Janko Tipsarevic,6-3 6-4 3-6 4-6 7-5,2013,m,Janko Tipsarevic,Lukas Lacko,SRB,SVK,61%,65%,15,12,3,1,73%,73%,51%,50%,199,206,180,179,138,146,45%,27%,35%,35%,155,156,48,57,44,61,59%,70%
+Second,Fernando Verdasco,6-1 6-3 6-2,2013,m,Fernando Verdasco,Xavier Malisse,ESP,BEL,72%,49%,2,3,3,5,68%,60%,62%,30%,207,200,177,182,155,141,53%,33%,55%,34%,99,66,31,14,30,45,88%,64%
+Second,Nicolas Almagro,6-4 6-1 6-2,2013,m,Nicolas Almagro,Daniel Gimeno-Traver,ESP,ESP,64%,49%,10,4,2,8,79%,66%,50%,43%,217,202,199,187,154,149,60%,17%,42%,31%,93,68,26,16,25,34,73%,50%
+First,James Duckworth,6-4 7-6(8) 4-6 5-7 8-6,2013,m,James Duckworth,Benjamin Mitchell,AUS,AUS,62%,55%,28,14,4,9,78%,69%,44%,54%,221,207,180,181,135,136,33%,31%,36%,34%,208,199,61,56,77,71,59%,52%
+First,Bernard Tomic,6-3 6-2 6-3,2013,m,Bernard Tomic,Leonardo Mayer,AUS,ARG,66%,63%,6,4,0,2,90%,66%,64%,42%,211,210,181,196,141,171,71%,-,42%,19%,82,52,28,18,15,22,73%,48%
+First,Amir Weintraub,7-6(2) 7-5 6-2,2013,m,Amir Weintraub,Guido Pella,ISR,ARG,72%,65%,12,6,2,2,77%,65%,52%,50%,,,,,0,0,83%,33%,39%,30%,109,86,12,6,2,2,,
+First,Jesse Levine,7-6(5) 6-7(2) 6-4 6-4,2013,m,Jesse Levine,Tommy Robredo,CAN,ESP,62%,57%,5,14,7,3,72%,78%,52%,58%,,,,,0,0,80%,17%,30%,34%,142,146,5,14,7,3,,
+First,Jeremy Chardy,7-6(5) 6-7(3) 6-2 6-1,2013,m,Jeremy Chardy,Adrian Menendez-Maceiras,FRA,ESP,57%,61%,21,12,8,4,89%,67%,42%,43%,,,,,0,0,42%,25%,42%,30%,146,119,21,12,8,4,,
+First,Juan Martin Del Potro,6-1 6-2 6-2,2013,m,Juan Martin Del Potro,Adrian Mannarino,ARG,FRA,76%,59%,7,4,0,5,84%,53%,79%,40%,208,200,193,181,157,159,60%,-,48%,17%,80,39,24,20,8,35,88%,70%
+First,Daniel Brands,6-3 3-6 6-3 6-4,2013,m,Daniel Brands,Martin Klizan,GER,SVK,74%,62%,14,13,2,1,82%,74%,64%,59%,,,,,0,0,50%,33%,31%,22%,105,89,14,13,2,1,,
+First,Marin Cilic,6-4 7-5 6-2,2013,m,Marin Cilic,Marinko Matosevic,CRO,AUS,55%,48%,9,2,3,8,76%,70%,60%,50%,208,196,190,185,141,147,40%,0%,37%,30%,109,86,34,19,33,40,74%,60%
+First,Gael Monfils,6-7(7) 7-6(4) 6-3 6-3,2013,m,Gael Monfils,Alexandr Dolgopolov,FRA,UKR,61%,56%,26,7,16,5,83%,67%,44%,53%,217,213,193,187,156,146,44%,57%,38%,29%,145,128,56,46,57,55,71%,61%
+First,Ivan Dodig,7-5 4-6 6-3 6-3,2013,m,Ivan Dodig,Di Wu,CRO,CHN,54%,57%,14,4,2,6,67%,64%,52%,46%,213,197,181,165,152,140,40%,42%,42%,39%,139,128,50,35,58,53,63%,61%
+First,Lukas Rosol,7-6(5) 7-5 6-2,2013,m,Lukas Rosol,Jamie Baker,CZE,GBR,60%,67%,9,8,2,1,75%,70%,63%,42%,,,,,0,0,42%,67%,39%,29%,110,94,9,8,2,1,,
+First,Gilles Simon,2-6 6-3 6-2 6-2,2013,m,Gilles Simon,Filippo Volandri,FRA,ITA,58%,65%,8,1,4,1,67%,56%,67%,50%,191,185,163,165,128,134,50%,60%,46%,32%,109,86,29,21,35,53,63%,51%
+First,Jo-Wilfried Tsonga,6-4 7-5 6-2,2013,m,Jo-Wilfried Tsonga,Michael Llodra,FRA,FRA,71%,55%,12,5,4,3,82%,66%,60%,58%,221,208,187,188,157,162,50%,0%,36%,24%,96,74,38,20,18,28,80%,54%
+First,Benjamin Becker,4-6 6-3 7-5 7-6(1),2013,m,Benjamin Becker,Aljaz Bedene,GER,SLO,48%,56%,16,11,7,6,76%,65%,49%,48%,,,,,0,0,47%,45%,41%,36%,142,131,16,11,7,6,,
+First,Milos Raonic,3-6 6-1 6-2 7-6(0),2013,m,Milos Raonic,Jan Hajek,CAN,CZE,63%,66%,30,3,5,1,82%,62%,63%,52%,223,199,196,171,176,134,27%,20%,41%,24%,133,102,57,24,50,40,57%,50%
+First,Go Soeda,6-7(4) 6-3 6-2 6-3,2013,m,Go Soeda,Luke Saville,JPN,AUS,56%,62%,6,8,3,7,72%,53%,54%,48%,197,198,175,177,145,149,44%,60%,46%,35%,142,108,38,41,36,54,73%,59%
+First,Denis Istomin,4-6 6-3 6-4 6-2,2013,m,Denis Istomin,Igor Sijsling,UZB,NED,63%,59%,3,7,1,0,73%,65%,70%,53%,,,,,0,0,29%,50%,40%,27%,119,98,3,7,1,0,,
+First,Andy Murray,6-3 6-1 6-3,2013,m,Andy Murray,Robin Haase,GBR,NED,73%,49%,4,2,1,1,72%,55%,50%,38%,205,202,160,184,131,157,62%,29%,53%,33%,85,56,25,18,20,35,59%,56%
+First,Andreas Seppi,6-2 6-4 6-2,2013,m,Andreas Seppi,Horacio Zeballos,ITA,ARG,61%,66%,12,6,1,2,86%,63%,61%,50%,,,,,0,0,42%,0%,41%,24%,86,62,12,6,1,2,,
+First,Blaz Kavcic,6-3 6-1 6-3,2013,m,Blaz Kavcic,Thomaz Bellucci,SLO,BRA,69%,56%,4,4,1,8,71%,63%,54%,37%,,,,,0,0,43%,17%,45%,34%,98,73,4,4,1,8,,
+First,Joao Sousa,6-4 6-1 6-4,2013,m,Joao Sousa,John-Patrick Smith,POR,AUS,58%,60%,4,2,4,1,71%,55%,62%,52%,,,,,0,0,32%,25%,46%,32%,97,73,4,2,4,1,,
+First,Roger Federer,6-2 6-4 6-1,2013,m,Roger Federer,Benoit Paire,SUI,FRA,64%,60%,3,8,0,8,84%,64%,60%,33%,208,204,185,185,156,142,50%,0%,44%,25%,95,63,25,21,18,27,81%,38%
+First,Jarkko Nieminen,7-6(3) 4-6 6-3 4-6 8-6,2013,m,Jarkko Nieminen,Tommy Haas,FIN,GER,65%,54%,19,17,4,8,70%,68%,50%,57%,205,199,172,185,128,161,50%,42%,35%,36%,182,179,66,64,69,83,64%,63%
+First,Nikolay Davydenko,3-6 6-1 7-5 6-3,2013,m,Nikolay Davydenko,Dudi Sela,RUS,ISR,68%,66%,4,1,3,2,60%,62%,64%,48%,,,,,0,0,44%,16%,43%,38%,133,118,4,1,3,2,,
+First,Richard Gasquet,7-5 6-2 6-1,2013,m,Richard Gasquet,Albert Montanes,FRA,ESP,60%,64%,13,6,0,5,88%,62%,63%,38%,204,196,169,169,138,136,60%,100%,44%,22%,95,63,45,23,26,31,76%,60%
+First,Philipp Kohlschreiber,6-2 6-3 6-4,2013,m,Philipp Kohlschreiber,Steve Darcis,GER,BEL,66%,54%,10,0,2,4,92%,63%,46%,57%,208,183,180,173,144,140,44%,0%,38%,23%,90,66,25,20,19,25,73%,61%
+First,Yen-Hsun Lu,6-2 6-1 4-6 6-1,2013,m,Yen-Hsun Lu,Ruben Ramirez-Hidalgo,TPE,ESP,61%,57%,10,9,1,3,77%,67%,71%,32%,,,,,NULL,NULL,64%,33%,46%,25%,106,67,10,9,1,3,,
+First,Florian Mayer,2-6 3-6 6-2 7-6(12) 6-1,2013,m,Florian Mayer,Rhyne Williams,GER,USA,72%,60%,9,15,2,8,73%,77%,46%,46%,,,,,0,0,31%,27%,34%,34%,150,148,9,15,2,8,,
+First,Marcel Granollers,7-6(6) 7-6(5) 1-0 ret.,2013,m,Marcel Granollers,Grega Zemlja,ESP,SLO,62%,58%,5,7,3,4,65%,68%,78%,43%,,,,,0,0,33%,33%,41%,29%,101,82,5,7,3,4,,
+First,Rajeev Ram,6-4 6-4 3-6 6-2,2013,m,Rajeev Ram,Guillermo Garcia-Lopez,USA,ESP,69%,55%,11,12,1,4,75%,71%,50%,46%,,,,,0,0,45%,33%,39%,33%,125,109,11,12,1,4,,
+First,Alejandro Falla,6-4 7-5 6-4,2013,m,Alejandro Falla,Josselin Ouanna,COL,FRA,71%,58%,6,13,2,8,73%,75%,55%,44%,,,,,0,0,38%,0%,35%,32%,117,103,6,13,2,8,,
+First,Richard Berankis,6-2 7-6(4) 7-5,2013,m,Richard Berankis,Sergiy Stakhovsky,LTU,UKR,58%,72%,6,6,3,2,81%,64%,64%,58%,,,,,0,0,23%,0%,37%,25%,118,98,6,6,3,2,,
+First,Tobias Kamke,6-1 6-4 6-1,2013,m,Tobias Kamke,Flavio Cipolla,GER,ITA,55%,63%,2,1,0,6,67%,50%,58%,32%,,,,,0,0,62%,33%,52%,37%,96,64,2,1,0,6,,
+First,Marcos Baghdatis,6-7(0) 7-6(4) 6-4 3-6 6-3,2013,m,Marcos Baghdatis,Albert Ramos,CYP,ESP,59%,62%,21,5,3,9,73%,75%,49%,41%,206,192,184,168,144,143,31%,21%,36%,37%,185,186,61,52,80,78,74%,71%
+First,Nicolas Almagro,7-5 6-7(4) 6-2 6-7(6) 6-2,2013,m,Nicolas Almagro,Steve Johnson,ESP,USA,53%,59%,34,21,6,8,80%,79%,64%,37%,216,208,192,190,151,158,47%,40%,36%,26%,175,144,62,59,29,61,68%,61%
+First,Sam Querrey,6-7(2) 6-4 6-2 6-4,2013,m,Sam Querrey,Daniel Munoz-De La Nava,USA,ESP,69%,50%,27,5,2,6,80%,76%,61%,54%,219,189,188,172,155,144,44%,-,34%,25%,130,111,56,31,43,39,64%,75%
+First,Somdev Devvarman,6-3 6-2 6-3,2013,m,Somdev Devvarman,Bjorn Phau,IND,GER,64%,51%,4,2,1,2,66%,64%,59%,39%,,,,,0,0,67%,7%,47%,36%,97,75,4,2,1,2,,
+First,Lukas Lacko,6-2 6-4 7-6(3),2013,m,Lukas Lacko,Gilles Muller,SVK,LUX,61%,57%,12,10,4,7,86%,75%,54%,44%,,,,,0,0,67%,14%,36%,25%,108,84,12,10,4,7,,
+First,Novak Djokovic,6-2 6-4 7-5,2013,m,Novak Djokovic,Paul-Henri Mathieu,SRB,FRA,64%,67%,9,5,2,4,84%,72%,75%,39%,202,200,186,182,154,158,57%,0%,37%,19%,95,68,31,27,15,32,75%,57%
+First,Tim Smyczek,6-4 7-6(5) 7-5,2013,m,Tim Smyczek,Ivo Karlovic,USA,CRO,72%,63%,4,16,2,4,79%,74%,55%,51%,,,,,0,0,29%,0%,33%,27%,113,101,4,16,2,4,,
+First,Kevin Anderson,3-6 7-6(3) 6-3 6-4,2013,m,Kevin Anderson,Paolo Lorenzi,RSA,ITA,75%,65%,9,5,2,3,73%,76%,55%,43%,214,210,188,184,155,139,38%,43%,35%,31%,137,124,55,38,48,38,66%,67%
+First,Tatsuma Ito,6-4 6-4 3-6 0-6 7-5,2013,m,Tatsuma Ito,John Millman,JPN,AUS,50%,61%,3,17,9,10,62%,69%,48%,43%,209,198,183,179,147,147,33%,53%,39%,43%,153,165,37,38,102,80,62%,67%
+First,Evgeny Donskoy,6-4 6-4 6-2,2013,m,Evgeny Donskoy,Adrian Ungur,RUS,ROU,53%,60%,12,3,3,5,86%,68%,53%,39%,,,,,0,0,44%,0%,41%,29%,108,82,12,3,3,5,,
+First,Jerzy Janowicz,7-5 6-4 6-3,2013,m,Jerzy Janowicz,Simone Bolelli,POL,ITA,60%,56%,12,3,4,3,81%,58%,43%,53%,228,205,195,181,157,149,67%,40%,43%,33%,108,89,31,23,38,44,50%,62%
+First,Ryan Harrison,2-6 6-4 7-5 6-4,2013,m,Ryan Harrison,Santiago Giraldo,USA,COL,62%,69%,10,3,2,3,68%,67%,59%,43%,210,199,182,171,159,129,46%,36%,40%,35%,128,119,29,42,46,55,58%,74%
+First,Radek Stepanek,5-7 4-6 6-3 6-3 7-5,2013,m,Radek Stepanek,Viktor Troicki,CZE,SRB,66%,60%,3,16,9,4,65%,66%,53%,44%,,,,,0,0,38%,33%,41%,37%,175,164,3,16,9,4,,
+First,Andrey Kuznetsov,7-6(3) 6-1 6-1,2013,m,Andrey Kuznetsov,Juan Monaco,RUS,ARG,54%,61%,5,1,6,3,66%,35%,47%,48%,194,191,166,159,135,137,60%,36%,58%,40%,101,72,28,9,49,46,72%,50%
+First,Roberto Bautista-Agut,6-0 2-6 6-4 3-6 6-1,2013,m,Roberto Bautista-Agut,Fabio Fognini,ESP,ITA,63%,57%,1,6,7,5,64%,61%,58%,45%,,,,,NULL,NULL,44%,56%,44%,36%,134,117,1,6,7,5,,
+First,Edouard Roger-Vasselin,6-3 6-7(5) 2-6 7-5 11-9,2013,m,Edouard Roger-Vasselin,Ruben Bemelmans,FRA,BEL,57%,62%,15,14,10,5,70%,66%,47%,54%,,,,,0,0,47%,50%,38%,38%,204,210,15,14,10,5,,
+First,Kei Nishikori,6-7(5) 6-3 6-1 6-3,2013,m,Kei Nishikori,Victor Hanescu,JPN,ROU,74%,67%,6,6,5,3,71%,63%,56%,46%,198,198,167,181,140,146,44%,33%,41%,32%,133,111,46,29,50,38,69%,54%
+First,Julien Benneteau,6-4 6-2 6-4,2013,m,Julien Benneteau,Grigor Dimitrov,FRA,BUL,63%,64%,6,5,2,1,85%,56%,57%,56%,,,,,0,0,71%,33%,44%,25%,100,74,6,5,2,1,,
+First,Xavier Malisse,6-3 6-1 6-2,2013,m,Xavier Malisse,Pablo Andujar,BEL,ESP,63%,57%,6,1,0,5,78%,65%,67%,32%,,,,,0,0,50%,0%,46%,26%,95,63,6,1,0,5,,
+First,Janko Tipsarevic,7-6(4) 7-5 6-3,2013,m,Janko Tipsarevic,Lleyton Hewitt,SRB,AUS,60%,49%,14,5,1,3,78%,68%,49%,43%,202,195,187,169,144,137,38%,60%,44%,33%,128,106,47,40,38,48,56%,65%
+First,David Ferrer,6-3 6-4 6-2,2013,m,David Ferrer,Olivier Rochus,ESP,BEL,68%,60%,2,0,0,2,77%,59%,65%,47%,190,172,174,162,143,135,40%,40%,45%,27%,91,65,30,23,17,31,74%,71%
+First,Fernando Verdasco,6-3 3-6 4-6 6-3 6-4,2013,m,Fernando Verdasco,David Goffin,ESP,BEL,59%,61%,5,6,9,12,72%,71%,53%,44%,215,199,182,175,154,149,67%,38%,36%,33%,142,128,45,28,58,54,67%,64%
+First,Jurgen Melzer,6-1 6-1 6-2,2013,m,Jurgen Melzer,Mikhail Kukushkin,AUT,KAZ,67%,55%,10,1,2,4,81%,45%,57%,39%,,,,,0,0,44%,0%,55%,26%,88,48,10,1,2,4,,
+First,Feliciano Lopez,6-3 6-2 6-4,2013,m,Feliciano Lopez,Arnau Brugues-Davi,ESP,ESP,64%,51%,26,3,3,2,90%,66%,59%,55%,,,,,0,0,40%,0%,39%,21%,91,65,26,3,3,2,,
+First,Brian Baker,7-6(4) 6-3 6-7(0) 3-6 6-2,2013,m,Brian Baker,Alex Jr. Bogomolov,USA,RUS,71%,73%,13,3,4,3,69%,62%,47%,48%,,,,,NULL,NULL,53%,36%,41%,36%,173,162,13,3,4,3,,
+First,Stanislas Wawrinka,6-2 6-4 6-3,2013,m,Stanislas Wawrinka,Cedrik-Marcel Stebe,SUI,GER,63%,67%,3,0,1,2,75%,56%,70%,63%,,,,,0,0,44%,0%,41%,27%,90,64,3,0,1,2,,
+First,Carlos Berlocq,1-6 7-6(5) 7-6(4) 6-2,2013,m,Carlos Berlocq,Maxime Authom,ARG,BEL,60%,59%,10,4,9,6,74%,69%,50%,50%,,,,,0,0,33%,56%,37%,34%,141,134,10,4,9,6,,
+First,Daniel Gimeno-Traver,6-7(4) 6-4 6-0 4-6 6-4,2013,m,Daniel Gimeno-Traver,Lukasz Kubot,ESP,POL,63%,59%,15,4,6,4,70%,75%,47%,36%,,,,,0,0,57%,27%,40%,37%,156,145,15,4,6,4,,
+First,Tomas Berdych,6-3 7-5 6-3,2013,m,Tomas Berdych,Michael Russell,CZE,USA,51%,74%,5,1,2,2,74%,61%,60%,38%,215,190,184,166,139,140,50%,25%,44%,32%,104,81,29,16,37,42,69%,71%
+First,Guillaume Rufin,4-6 7-6(4) 6-1 6-2,2013,m,Guillaume Rufin,Julian Reister,FRA,GER,61%,76%,5,2,4,4,66%,55%,54%,41%,,,,,0,0,44%,50%,46%,37%,130,108,5,2,4,4,,

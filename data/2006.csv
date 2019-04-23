@@ -1,0 +1,127 @@
+round,winner,results,year,gender,player1,player2,country1,country2,firstServe1,firstServe2,ace1,ace2,double1,double2,firstPointWon1,firstPointWon2,secPointWon1,secPointWon2,fastServe1,fastServe2,avgFirstServe1,avgFirstServe2,avgSecServe1,avgSecServe2,break1,break2,return1,return2,total1,total2,winner1,winner2,error1,error2,net1,net2
+Final,Roger Federer,5-7 7-5 6-0 6-2,2006,m,Roger Federer,Marcos Baghdatis,SUI,CYP,53%,48%,11,6,6,2,71%,71%,51%,37%,209,217,185,197,146,146,67%,30%,46%,38%,142,116,50,34,48,48,78%,52%
+semi,Roger Federer,6-3 5-7 6-0 6-2,2006,m,Roger Federer,Nicolas Kiefer,SUI,GER,66%,51%,7,14,5,7,71%,71%,67%,38%,205,222,186,196,154,154,32%,25%,45%,30%,129,99,39,33,33,53,79%,70%
+semi,Marcos Baghdatis,3-6 5-7 6-3 6-4 6-4,2006,m,Marcos Baghdatis,David Nalbandian,CYP,ARG,56%,67%,15,5,2,1,70%,63%,50%,50%,218,193,196,170,148,148,62%,41%,41%,39%,152,143,52,48,41,56,63%,81%
+quarter,Roger Federer,6-4 3-6 7-6(7) 7-6(5),2006,m,Roger Federer,Nikolay Davydenko,SUI,RUS,62%,77%,6,1,0,2,74%,70%,53%,42%,210,209,189,173,151,151,40%,50%,36%,34%,144,139,46,30,52,48,60%,72%
+quarter,Nicolas Kiefer,6-3 0-6 6-4 6-7(1) 8-6,2006,m,Nicolas Kiefer,Sebastien Grosjean,GER,FRA,45%,51%,4,12,9,2,62%,64%,51%,53%,220,215,189,183,139,139,56%,69%,41%,44%,160,169,34,59,67,55,58%,59%
+quarter,David Nalbandian,7-5 6-0 6-0,2006,m,David Nalbandian,Fabrice Santoro,ARG,FRA,61%,61%,2,4,0,1,74%,59%,72%,20%,191,194,173,173,133,133,53%,33%,57%,27%,90,50,47,18,17,15,81%,40%
+quarter,Marcos Baghdatis,6-4 6-2 4-6 3-6 6-3,2006,m,Marcos Baghdatis,Ivan Ljubicic,CYP,CRO,53%,64%,8,14,4,3,80%,71%,60%,54%,213,220,196,193,154,154,27%,22%,35%,30%,146,139,47,61,26,57,67%,70%
+Fourth,Nicolas Kiefer,7-6(4) 6-3 6-3,2006,m,Nicolas Kiefer,Juan Ignacio Chela,GER,ARG,46%,57%,5,2,3,0,84%,63%,51%,53%,218,194,196,181,146,146,71%,22%,41%,34%,101,87,41,24,33,22,76%,50%
+Fourth,Sebastien Grosjean,7-5 6-2 6-2,2006,m,Sebastien Grosjean,Paul-Henri Mathieu,FRA,FRA,43%,49%,12,3,3,4,94%,52%,46%,47%,212,207,193,185,152,152,57%,75%,51%,33%,93,68,29,17,23,49,60%,57%
+Fourth,Roger Federer,6-4 6-0 3-6 4-6 6-2,2006,m,Roger Federer,Tommy Haas,SUI,GER,58%,64%,10,5,1,0,78%,63%,53%,57%,217,209,191,191,152,152,55%,22%,39%,33%,143,127,66,31,58,36,66%,69%
+Fourth,Nikolay Davydenko,4-6 4-6 6-4 6-2 6-3,2006,m,Nikolay Davydenko,Dominik Hrbaty,RUS,SVK,69%,50%,6,7,3,6,59%,72%,62%,41%,212,215,178,185,143,143,67%,43%,44%,40%,161,148,31,36,60,77,52%,66%
+Fourth,Fabrice Santoro,6-4 7-5 7-5,2006,m,Fabrice Santoro,David Ferrer,FRA,ESP,60%,73%,6,0,0,2,63%,53%,47%,34%,197,193,178,170,143,143,56%,50%,52%,44%,108,92,19,53,14,41,61%,73%
+Fourth,Ivan Ljubicic,6-2 6-4 6-4,2006,m,Ivan Ljubicic,Thomas Johansson,CRO,SWE,53%,46%,12,12,1,7,77%,81%,71%,41%,222,215,202,185,149,149,57%,0%,41%,26%,97,75,39,26,16,27,68%,63%
+Fourth,Marcos Baghdatis,6-4 1-6 6-3 6-4,2006,m,Marcos Baghdatis,Andy Roddick,CYP,USA,48%,60%,16,15,1,4,72%,74%,57%,56%,218,226,199,207,173,173,30%,22%,33%,36%,116,117,63,39,26,31,64%,57%
+Fourth,David Nalbandian,6-3 6-0 2-6 6-2,2006,m,David Nalbandian,Tommy Robredo,ARG,ESP,65%,68%,3,9,2,6,73%,62%,66%,32%,193,209,173,175,151,151,32%,100%,48%,30%,116,87,33,24,28,37,83%,71%
+Third,Roger Federer,6-3 6-4 6-3,2006,m,Roger Federer,Max Mirnyi,SUI,BLR,67%,67%,6,5,2,6,79%,69%,87%,31%,205,220,188,201,165,165,27%,0%,44%,19%,104,74,48,22,10,25,75%,53%
+Third,Nicolas Kiefer,6-3 6-2 5-7 6-2,2006,m,Nicolas Kiefer,Juan Carlos Ferrero,GER,ESP,51%,64%,13,5,4,2,87%,60%,56%,58%,222,201,201,176,144,144,36%,33%,40%,28%,125,104,52,46,34,43,67%,72%
+Third,Paul-Henri Mathieu,7-6(2) 7-6(7) 6-1,2006,m,Paul-Henri Mathieu,Luis Horna,FRA,PER,63%,70%,18,9,1,4,78%,63%,61%,39%,204,209,175,173,146,146,42%,50%,44%,28%,123,91,49,36,26,45,59%,38%
+Third,Dominik Hrbaty,1-6 6-4 6-3 2-6 6-4,2006,m,Dominik Hrbaty,Igor Andreev,SVK,RUS,56%,58%,12,12,5,6,61%,66%,57%,48%,217,210,188,183,143,143,24%,43%,41%,41%,160,160,32,47,63,72,52%,74%
+Third,Juan Ignacio Chela,6-1 6-4 6-4,2006,m,Juan Ignacio Chela,Kristof Vliegen,ARG,BEL,55%,65%,4,5,3,5,79%,68%,58%,38%,194,201,176,176,146,146,36%,0%,43%,31%,101,76,19,41,16,44,74%,69%
+Third,Tommy Haas,4-6 6-3 6-4 6-4,2006,m,Tommy Haas,Peter Luczak,GER,AUS,60%,60%,18,21,1,2,81%,72%,62%,54%,204,207,186,188,149,149,50%,100%,35%,27%,123,105,55,48,30,30,75%,72%
+Third,Sebastien Grosjean,6-2 6-2 3-6 6-4,2006,m,Sebastien Grosjean,Guillermo Coria,FRA,ARG,51%,64%,7,0,8,23,73%,61%,40%,26%,215,201,191,138,141,141,35%,55%,52%,44%,128,109,46,23,48,48,63%,73%
+Third,Nikolay Davydenko,6-2 5-7 6-4 7-5,2006,m,Nikolay Davydenko,Nathan Healey,RUS,AUS,75%,62%,4,17,2,6,74%,70%,71%,41%,212,213,173,191,156,156,28%,33%,41%,26%,144,116,47,42,38,61,83%,63%
+Third,Andy Roddick,6-1 6-2 6-2,2006,m,Andy Roddick,Julien Benneteau,USA,FRA,60%,59%,17,5,1,3,86%,49%,64%,38%,226,210,209,178,149,149,86%,-,56%,23%,81,40,28,13,16,31,77%,44%
+Third,David Nalbandian,2-6 6-3 6-2 7-5,2006,m,David Nalbandian,Jarkko Nieminen,ARG,FIN,65%,68%,6,3,3,1,63%,58%,58%,45%,193,201,176,178,125,125,37%,31%,46%,39%,141,121,54,33,52,39,74%,48%
+Third,David Ferrer,6-3 6-3 6-3,2006,m,David Ferrer,Mario Ancic,ESP,CRO,71%,66%,0,3,2,5,65%,54%,58%,48%,186,207,162,173,148,148,46%,50%,48%,37%,94,76,20,24,16,35,42%,58%
+Third,Thomas Johansson,6-3 6-2 6-1,2006,m,Thomas Johansson,Gilles Simon,SWE,FRA,58%,45%,9,4,1,2,85%,70%,53%,41%,220,202,188,176,133,133,40%,0%,46%,28%,89,65,33,20,27,34,60%,37%
+Third,Marcos Baghdatis,6-2 6-1 6-2,2006,m,Marcos Baghdatis,Denis Gremelmayr,CYP,GER,55%,62%,5,0,3,4,67%,45%,60%,35%,202,197,180,164,127,127,73%,67%,59%,36%,82,52,27,13,17,28,74%,48%
+Third,Tommy Robredo,6-3 6-4 6-4,2006,m,Tommy Robredo,James Blake,ESP,USA,57%,52%,9,6,6,8,78%,70%,65%,43%,209,218,186,193,154,154,31%,20%,43%,28%,103,79,24,34,14,46,75%,67%
+Third,Fabrice Santoro,6-3 6-2 5-7 1-6 6-4,2006,m,Fabrice Santoro,Gaston Gaudio,FRA,ARG,55%,60%,9,1,5,3,67%,63%,43%,47%,194,202,170,180,141,141,62%,28%,43%,44%,156,152,62,73,19,37,63%,73%
+Third,Ivan Ljubicic,7-5 7-6(5) 6-0,2006,m,Ivan Ljubicic,Feliciano Lopez,CRO,ESP,55%,56%,10,12,4,8,83%,70%,53%,38%,225,218,197,199,164,164,29%,20%,44%,30%,119,94,38,32,23,41,60%,57%
+Second,Nathan Healey,6-4 6-7(4) 6-3 6-4,2006,m,Nathan Healey,Amer Delic,AUS,BIH,60%,55%,10,13,6,6,74%,82%,63%,54%,215,222,173,188,159,159,43%,0%,30%,30%,134,121,35,41,31,47,63%,57%
+Second,Kristof Vliegen,3-6 6-2 7-6(4) 7-5,2006,m,Kristof Vliegen,Fernando Verdasco,BEL,ESP,67%,60%,10,9,2,20,68%,67%,41%,42%,,,,,,,32%,38%,43%,41%,152,149,34,54,51,69,55%,70%
+Second,Juan Ignacio Chela,6-4 6-4 6-7(8) 6-2,2006,m,Juan Ignacio Chela,Lleyton Hewitt,ARG,AUS,64%,55%,6,8,0,3,63%,65%,64%,43%,197,205,183,170,139,139,38%,31%,45%,36%,147,128,49,63,34,62,62%,72%
+Second,Igor Andreev,3-6 6-3 7-6(4) 2-6 6-2,2006,m,Igor Andreev,Raemon Sluiter,RUS,NED,68%,58%,9,11,4,3,70%,68%,52%,58%,,,,,,,56%,45%,37%,36%,145,140,45,35,48,49,56%,76%
+Second,Peter Luczak,6-7(4) 6-4 6-1 6-7(1) 6-1,2006,m,Peter Luczak,Olivier Rochus,AUS,BEL,69%,59%,22,9,3,12,75%,73%,50%,44%,207,180,176,160,136,136,50%,50%,39%,33%,155,135,60,44,44,46,55%,77%
+Second,Luis Horna,6-3 6-2 6-1,2006,m,Luis Horna,Bjorn Phau,PER,GER,71%,52%,8,2,2,6,83%,55%,47%,33%,,,,,,,70%,50%,56%,28%,82,46,23,8,18,35,89%,40%
+Second,Tommy Haas,6-0 6-1 6-2,2006,m,Tommy Haas,Paul Goldstein,GER,USA,54%,60%,2,3,0,3,94%,66%,65%,20%,205,199,189,175,141,141,78%,0%,52%,19%,79,41,30,13,20,27,83%,33%
+Second,Nicolas Kiefer,4-6 6-1 6-4 6-1,2006,m,Nicolas Kiefer,Boris Pashanski,GER,SRB,51%,55%,15,4,4,6,79%,58%,48%,40%,215,197,191,170,143,143,56%,44%,50%,36%,125,95,31,30,34,52,67%,66%
+Second,Guillermo Coria,7-6(10) 6-4 6-3,2006,m,Guillermo Coria,Federico Luzzi,ARG,ITA,78%,56%,1,5,9,6,68%,65%,46%,43%,194,210,144,183,141,141,28%,30%,45%,37%,132,114,47,45,33,49,63%,56%
+Second,Dominik Hrbaty,6-2 7-5 5-7 4-6 10-8,2006,m,Dominik Hrbaty,Dick Norman,SVK,BEL,59%,57%,11,20,12,17,80%,67%,48%,45%,,,,,,,26%,55%,43%,33%,203,180,69,70,43,78,71%,62%
+Second,Sebastien Grosjean,6-4 6-3 6-3,2006,m,Sebastien Grosjean,Juan Monaco,FRA,ARG,45%,61%,3,2,1,4,87%,49%,49%,62%,213,209,191,188,148,148,86%,33%,46%,34%,90,69,17,15,26,37,77%,57%
+Second,Max Mirnyi,7-5 6-3 4-6 7-6(8),2006,m,Max Mirnyi,Davide Sanguinetti,BLR,ITA,66%,59%,7,6,4,5,71%,67%,63%,59%,,,,,,,33%,29%,36%,32%,152,140,64,61,36,24,60%,63%
+Second,Paul-Henri Mathieu,6-0 7-6(5) 6-2,2006,m,Paul-Henri Mathieu,Alex Jr. Bogomolov,FRA,RUS,49%,64%,13,1,3,7,88%,57%,54%,36%,,,,,,,37%,100%,50%,30%,116,82,37,28,32,53,86%,60%
+Second,Nikolay Davydenko,4-6 6-0 6-3 6-2,2006,m,Nikolay Davydenko,Kevin Kim,RUS,USA,79%,59%,3,0,2,9,67%,64%,67%,37%,201,199,162,167,128,128,57%,60%,47%,33%,115,86,30,16,38,52,75%,50%
+Second,Juan Carlos Ferrero,6-3 3-6 5-7 6-3 6-2,2006,m,Juan Carlos Ferrero,Janko Tipsarevic,ESP,SRB,62%,50%,14,16,2,3,74%,67%,53%,46%,197,210,178,188,136,136,35%,100%,44%,34%,156,136,55,57,27,55,75%,60%
+Second,Roger Federer,6-1 6-4 6-0,2006,m,Roger Federer,Florian Mayer,SUI,GER,61%,64%,9,2,1,5,76%,52%,62%,44%,201,201,180,183,139,139,60%,0%,51%,30%,87,56,38,20,18,21,80%,53%
+Second,David Ferrer,6-4 6-4 6-7(5) 6-2,2006,m,David Ferrer,Daniele Bracciali,ESP,ITA,66%,51%,5,6,2,11,65%,52%,49%,55%,197,222,168,183,141,141,69%,42%,51%,41%,145,118,23,44,39,84,56%,68%
+Second,Denis Gremelmayr,2-6 5-7 6-4 6-3 6-3,2006,m,Denis Gremelmayr,Robby Ginepri,GER,USA,50%,66%,8,7,10,3,67%,67%,46%,45%,197,197,168,170,144,144,67%,33%,41%,44%,163,168,43,51,58,62,81%,63%
+Second,Gaston Gaudio,6-3 6-2 6-3,2006,m,Gaston Gaudio,Lars Burgsmuller,ARG,GER,55%,50%,1,3,1,4,76%,71%,64%,35%,194,197,180,172,146,146,55%,20%,49%,30%,93,65,28,27,17,39,67%,51%
+Second,Ivan Ljubicic,7-5 6-2 6-1,2006,m,Ivan Ljubicic,Philipp Kohlschreiber,CRO,GER,52%,46%,3,3,4,5,70%,58%,62%,49%,209,210,191,175,143,143,44%,40%,49%,36%,107,82,35,26,22,29,70%,61%
+Second,Gilles Simon,6-3 6-2 4-6 6-2,2006,m,Gilles Simon,Tomas Berdych,FRA,CZE,49%,46%,6,3,3,9,73%,65%,54%,45%,202,210,173,193,156,156,78%,21%,49%,38%,135,106,45,33,38,56,77%,58%
+Second,Thomas Johansson,6-3 3-6 7-5 4-6 6-3,2006,m,Thomas Johansson,Xavier Malisse,SWE,BEL,53%,47%,12,16,4,3,75%,75%,53%,54%,213,201,183,185,136,136,45%,40%,36%,35%,153,148,44,57,57,66,80%,67%
+Second,Andy Roddick,7-5 6-3 6-2,2006,m,Andy Roddick,Wesley Moodie,USA,RSA,62%,72%,11,11,1,2,85%,62%,69%,73%,226,212,205,191,170,170,44%,0%,36%,22%,92,71,30,36,9,25,50%,57%
+Second,James Blake,2-6 6-1 6-4 6-3,2006,m,James Blake,Jean-Christophe Faurel,USA,FRA,55%,61%,5,9,3,6,77%,64%,51%,43%,209,205,188,165,144,144,47%,50%,47%,36%,119,100,41,33,33,27,67%,63%
+Second,David Nalbandian,6-4 3-6 6-4 6-2,2006,m,David Nalbandian,Stanislas Wawrinka,ARG,SUI,66%,55%,2,10,3,4,66%,65%,72%,57%,196,217,176,188,156,156,33%,8%,40%,34%,136,123,26,46,46,52,67%,69%
+Second,Tommy Robredo,7-6(4) 3-6 7-6(5) 6-3,2006,m,Tommy Robredo,Dmitry Tursunov,ESP,RUS,73%,54%,5,8,2,5,69%,78%,65%,44%,202,217,165,181,141,141,67%,33%,39%,33%,154,140,50,40,55,65,83%,59%
+Second,Feliciano Lopez,6-2 6-4 6-7(6) 6-4,2006,m,Feliciano Lopez,Gilles Muller,ESP,LUX,61%,65%,17,10,5,4,80%,66%,50%,52%,213,201,193,183,156,156,38%,67%,40%,33%,138,125,55,43,39,43,64%,58%
+Second,Jarkko Nieminen,6-2 7-6(3) 6-2,2006,m,Jarkko Nieminen,Jimmy Wang,FIN,TPE,62%,50%,4,4,2,2,72%,63%,70%,41%,197,196,164,180,139,139,67%,20%,49%,30%,107,72,30,28,23,53,67%,54%
+Second,Mario Ancic,6-1 6-4 6-4,2006,m,Mario Ancic,Jan Hernych,CRO,CZE,63%,65%,10,1,2,1,91%,61%,64%,62%,210,194,189,176,149,149,27%,-,40%,20%,90,66,42,21,22,11,84%,53%
+Second,Fabrice Santoro,6-4 6-1 6-4,2006,m,Fabrice Santoro,Andrei Pavel,FRA,ROU,59%,65%,8,4,2,3,69%,56%,46%,38%,,,,,,,64%,23%,52%,41%,102,81,42,33,18,30,68%,52%
+Second,Julien Benneteau,6-4 7-6(3) 6-1,2006,m,Julien Benneteau,Guillermo Garcia-Lopez,FRA,ESP,75%,55%,8,4,4,6,78%,70%,60%,56%,,,,,,,25%,0%,39%,29%,108,88,23,25,27,55,73%,47%
+Second,Marcos Baghdatis,6-4 6-3 3-6 0-6 7-5,2006,m,Marcos Baghdatis,Radek Stepanek,CYP,CZE,51%,57%,6,11,6,4,72%,67%,57%,54%,213,213,186,183,152,152,42%,55%,39%,35%,141,137,43,48,46,60,47%,59%
+First,Florian Mayer,6-4 6-1 4-6 6-4,2006,m,Florian Mayer,Hyung-Taik Lee,GER,KOR,50%,63%,10,2,3,4,78%,51%,43%,52%,199,194,181,173,143,143,64%,71%,49%,39%,120,100,45,29,44,47,74%,50%
+First,Dominik Hrbaty,3-6 4-6 6-2 6-1 6-3,2006,m,Dominik Hrbaty,Oliver Marach,SVK,AUT,58%,48%,7,12,8,9,70%,67%,55%,37%,,,,,,,43%,67%,49%,36%,153,126,41,37,48,66,77%,59%
+First,Nathan Healey,6-2 6-3 ret.,2006,m,Nathan Healey,Filippo Volandri,AUS,ITA,55%,67%,3,1,4,3,78%,52%,68%,33%,,,,,,,42%,50%,54%,26%,70,44,15,14,11,29,71%,48%
+First,Boris Pashanski,6-3 6-4 4-6 7-6(2),2006,m,Boris Pashanski,Wayne Arthurs,SRB,AUS,67%,47%,6,29,0,9,74%,79%,68%,49%,,,,,,,33%,20%,37%,28%,137,119,54,56,20,33,82%,52%
+First,Janko Tipsarevic,1-6 6-4 4-6 6-2 6-4,2006,m,Janko Tipsarevic,Andreas Seppi,SRB,ITA,53%,48%,9,9,3,5,68%,71%,51%,46%,,,,,,,50%,50%,42%,40%,142,134,36,48,38,68,60%,76%
+First,Amer Delic,7-5 6-7(3) 6-3 3-6 6-3,2006,m,Amer Delic,Potito Starace,BIH,ITA,61%,75%,14,6,8,5,71%,65%,54%,61%,,,,,,,33%,25%,36%,36%,173,168,79,50,67,34,66%,58%
+First,Fernando Verdasco,7-6(5) 6-4 6-4,2006,m,Fernando Verdasco,Kenneth Carlsen,ESP,DEN,63%,56%,3,7,6,5,84%,76%,54%,47%,222,213,180,193,149,149,13%,0%,37%,27%,116,101,33,32,30,43,67%,83%
+First,Roger Federer,6-2 6-3 6-2,2006,m,Roger Federer,Denis Istomin,SUI,UZB,69%,64%,2,8,0,3,83%,58%,57%,37%,202,207,176,191,152,152,55%,33%,49%,25%,91,59,20,15,19,39,81%,57%
+First,Kristof Vliegen,6-3 6-1 6-4,2006,m,Kristof Vliegen,Christophe Rochus,BEL,BEL,66%,57%,17,1,3,2,79%,54%,47%,50%,,,,,,,75%,20%,48%,32%,91,62,45,13,26,26,52%,56%
+First,Juan Carlos Ferrero,7-5 6-0 6-2,2006,m,Juan Carlos Ferrero,Tomas Zib,ESP,CZE,57%,63%,8,3,0,3,73%,54%,67%,37%,185,197,170,175,141,141,67%,67%,53%,30%,91,59,31,12,24,28,67%,53%
+First,Raemon Sluiter,6-4 2-6 6-2 6-4,2006,m,Raemon Sluiter,Pavel Snobel,NED,CZE,57%,46%,7,5,5,7,78%,64%,61%,58%,,,,,,,38%,75%,39%,29%,114,102,29,24,53,55,74%,45%
+First,Paul Goldstein,6-2 1-6 6-3 6-2,2006,m,Paul Goldstein,Novak Djokovic,USA,SRB,62%,62%,2,6,7,9,71%,62%,45%,42%,,,,,,,32%,23%,46%,39%,123,107,25,48,21,68,61%,66%
+First,Dick Norman,6-4 7-6(6) 5-7 0-6 6-3,2006,m,Dick Norman,Zack Fleishman,BEL,USA,63%,52%,18,6,9,9,72%,69%,33%,53%,,,,,,,46%,32%,39%,42%,165,175,61,38,90,52,70%,53%
+First,Luis Horna,6-4 7-5 6-1,2006,m,Luis Horna,Gael Monfils,PER,FRA,84%,51%,1,6,2,6,73%,70%,67%,42%,217,217,164,181,139,139,55%,50%,44%,28%,94,72,27,14,24,42,79%,55%
+First,Tommy Haas,6-2 7-5 6-2,2006,m,Tommy Haas,Richard Gasquet,GER,FRA,62%,50%,7,4,1,4,79%,64%,54%,51%,205,205,185,188,148,148,60%,9%,42%,31%,96,73,28,27,33,35,88%,58%
+First,Juan Monaco,4-6 6-2 6-4 6-3,2006,m,Juan Monaco,Jean-Rene Lisnard,ARG,MON,58%,37%,2,1,4,9,68%,80%,56%,40%,,,,,,,50%,31%,46%,37%,128,109,35,33,49,57,61%,71%
+First,Peter Luczak,7-6(4) 7-6(5) 6-4,2006,m,Peter Luczak,Ivo Minar,AUS,CZE,64%,53%,15,12,2,0,78%,81%,68%,66%,202,210,180,194,146,146,50%,33%,26%,25%,106,102,35,42,23,36,73%,56%
+First,Davide Sanguinetti,7-6(5) 6-3 6-2,2006,m,Davide Sanguinetti,Jacob Adaktusson,ITA,SWE,57%,54%,5,5,1,3,77%,65%,63%,42%,,,,,,,42%,25%,46%,29%,116,88,25,22,39,63,54%,78%
+First,Igor Andreev,7-5 6-4 6-3,2006,m,Igor Andreev,Nicolas Almagro,RUS,ESP,64%,73%,3,7,1,2,75%,59%,53%,58%,,,,,,,42%,40%,41%,33%,102,85,29,26,31,36,64%,57%
+First,Lleyton Hewitt,6-4 2-6 5-7 7-6(4) 6-3,2006,m,Lleyton Hewitt,Robin Vik,AUS,CZE,58%,63%,11,8,13,13,64%,68%,36%,30%,202,194,165,167,138,138,43%,31%,44%,46%,173,178,56,66,61,66,63%,67%
+First,Sebastien Grosjean,6-4 6-2 6-3,2006,m,Sebastien Grosjean,Mark Philippoussis,FRA,AUS,45%,59%,6,3,1,9,74%,58%,76%,47%,205,220,186,196,156,156,67%,50%,46%,25%,90,61,28,26,3,36,65%,53%
+First,Max Mirnyi,6-3 3-6 6-1 6-7(4) 6-0,2006,m,Max Mirnyi,Thierry Ascione,BLR,FRA,74%,76%,11,4,7,4,73%,66%,53%,42%,,,,,,,58%,17%,40%,32%,150,125,54,50,23,17,60%,54%
+First,Nicolas Kiefer,6-7(5) 4-6 7-6(5) 6-1 6-2,2006,m,Nicolas Kiefer,Paradorn Srichaphan,GER,THA,47%,48%,11,6,6,13,72%,57%,53%,40%,222,205,188,181,154,154,63%,54%,49%,36%,174,134,43,43,48,73,71%,56%
+First,Paul-Henri Mathieu,6-3 7-6(4) 6-3,2006,m,Paul-Henri Mathieu,Arnaud Clement,FRA,FRA,58%,57%,11,5,3,2,73%,71%,52%,39%,,,,,,,57%,29%,43%,36%,106,89,31,23,37,47,63%,71%
+First,Federico Luzzi,6-1 6-4 7-5,2006,m,Federico Luzzi,Juan-Antonio Marin,ITA,CRC,55%,60%,8,0,2,1,87%,61%,46%,53%,,,,,,,50%,67%,42%,31%,91,73,46,23,32,20,82%,53%
+First,Olivier Rochus,6-4 6-2 6-2,2006,m,Olivier Rochus,Michael Llodra,BEL,FRA,66%,58%,2,9,0,2,71%,67%,84%,42%,,,,,,,71%,0%,44%,25%,89,62,31,38,7,30,71%,47%
+First,Juan Ignacio Chela,6-1 6-3 6-3,2006,m,Juan Ignacio Chela,Andy Murray,ARG,GBR,64%,51%,1,7,1,1,70%,64%,67%,45%,194,209,183,181,141,141,63%,0%,45%,31%,93,68,20,28,22,43,68%,69%
+First,Bjorn Phau,6-4 7-6(3) 2-6 7-6(4),2006,m,Bjorn Phau,Carlos Berlocq,GER,ARG,51%,57%,2,6,5,6,63%,60%,51%,49%,,,,,,,67%,53%,45%,43%,138,132,49,25,69,50,66%,51%
+First,Guillermo Coria,6-4 1-6 4-6 6-2 6-1,2006,m,Guillermo Coria,Victor Hanescu,ARG,ROU,69%,68%,2,9,17,7,57%,54%,24%,27%,188,201,138,176,143,143,43%,42%,53%,51%,156,148,54,54,50,51,69%,51%
+First,Alex Jr. Bogomolov,4-6 7-6(6) 6-3 6-7(3) 7-5,2006,m,Alex Jr. Bogomolov,Fernando Gonzalez,RUS,CHI,71%,55%,7,10,10,14,64%,71%,34%,38%,189,213,164,175,151,151,69%,36%,40%,43%,195,200,53,80,55,85,51%,69%
+First,Nikolay Davydenko,7-5 4-6 3-6 7-5 6-3,2006,m,Nikolay Davydenko,Ivo Karlovic,RUS,CRO,81%,64%,5,31,4,4,73%,79%,55%,41%,207,225,168,204,173,173,27%,22%,33%,29%,165,156,41,64,29,62,75%,50%
+First,Kevin Kim,6-4 6-4 6-0,2006,m,Kevin Kim,Harel Levy,USA,ISR,62%,63%,8,2,6,4,72%,58%,54%,37%,,,,,,,67%,13%,50%,34%,108,79,45,24,27,40,67%,61%
+First,Lars Burgsmuller,3-6 6-3 7-6(2) 6-3,2006,m,Lars Burgsmuller,Rainer Schuettler,GER,GER,57%,57%,3,2,5,3,68%,67%,44%,44%,,,,,,,70%,40%,43%,42%,119,113,37,42,43,33,60%,58%
+First,Gaston Gaudio,6-2 5-0 ret.,2006,m,Gaston Gaudio,Razvan Sabau,ARG,ROU,55%,51%,6,1,2,9,83%,57%,53%,27%,202,186,185,167,138,138,45%,50%,58%,31%,55,32,19,4,11,21,60%,38%
+First,Feliciano Lopez,6-2 7-5 6-3,2006,m,Feliciano Lopez,Tomas Behrend,ESP,GER,54%,59%,13,4,1,5,83%,64%,64%,47%,,,,,,,26%,0%,43%,26%,112,87,36,22,38,49,67%,69%
+First,Daniele Bracciali,6-1 7-6(4) 6-2,2006,m,Daniele Bracciali,Yen-Hsun Lu,ITA,TPE,57%,57%,11,2,3,4,80%,58%,49%,33%,,,,,,,60%,9%,52%,33%,104,70,39,12,34,40,69%,0%
+First,Mario Ancic,6-4 4-6 6-3 6-4,2006,m,Mario Ancic,Agustin Calleri,CRO,ARG,57%,51%,9,6,4,7,78%,68%,43%,50%,209,213,178,193,151,151,32%,40%,41%,37%,125,115,33,43,36,39,54%,64%
+First,David Ferrer,4-6 6-3 6-1 6-4,2006,m,David Ferrer,Florent Serra,ESP,FRA,65%,63%,3,2,4,4,61%,64%,51%,24%,,,,,,,50%,60%,51%,42%,141,121,39,35,37,69,58%,64%
+First,Fabrice Santoro,3-6 6-0 6-2 6-3,2006,m,Fabrice Santoro,Vince Spadea,FRA,USA,57%,54%,1,0,1,7,68%,58%,65%,41%,,,,,,,44%,50%,50%,33%,113,84,42,47,15,45,75%,62%
+First,Jean-Christophe Faurel,7-6(5) 6-3 7-6(2),2006,m,Jean-Christophe Faurel,Alexander Waske,FRA,GER,72%,68%,7,17,4,5,77%,70%,52%,36%,,,,,,,43%,100%,41%,30%,120,102,50,39,17,32,76%,51%
+First,Robby Ginepri,6-1 6-4 6-2,2006,m,Robby Ginepri,Jurgen Melzer,USA,AUT,51%,52%,1,3,4,1,78%,46%,50%,41%,202,207,181,180,148,148,57%,75%,57%,36%,85,55,23,22,18,29,71%,46%
+First,Jan Hernych,2-6 6-3 7-6(5) 6-2,2006,m,Jan Hernych,Fernando Vicente,CZE,ESP,71%,67%,5,4,4,5,71%,66%,49%,50%,,,,,,,31%,30%,39%,36%,138,128,60,22,65,25,68%,61%
+First,Radek Stepanek,6-1 6-2 6-2,2006,m,Radek Stepanek,Bjorn Rehnquist,CZE,SWE,58%,59%,1,3,1,2,71%,50%,73%,45%,,,,,,,86%,0%,52%,28%,79,46,20,14,21,32,67%,67%
+First,Wesley Moodie,3-6 7-6(5) 6-4 6-2,2006,m,Wesley Moodie,Oscar Hernandez,RSA,ESP,63%,64%,21,6,9,1,77%,70%,55%,56%,,,,,,,25%,10%,35%,31%,139,129,56,53,40,33,46%,65%
+First,Thomas Johansson,6-1 7-6(3) 6-4,2006,m,Thomas Johansson,Cyril Saulnier,SWE,FRA,54%,50%,13,10,3,5,82%,64%,58%,47%,213,207,185,189,157,157,31%,13%,43%,28%,116,90,40,40,23,53,100%,50%
+First,Guillermo Garcia-Lopez,7-6(4) 6-3 7-6(4),2006,m,Guillermo Garcia-Lopez,Taylor Dent,ESP,USA,64%,52%,9,13,4,7,79%,80%,47%,43%,202,231,183,204,172,172,67%,38%,38%,32%,108,94,44,38,12,26,70%,58%
+First,Tommy Robredo,6-4 7-6(6) 6-3,2006,m,Tommy Robredo,Jiri Vanek,ESP,CZE,72%,66%,10,8,4,10,73%,71%,55%,37%,,,,,,,27%,20%,41%,32%,116,99,35,46,17,44,69%,72%
+First,David Nalbandian,6-2 6-2 1-6 6-7(4) 6-1,2006,m,David Nalbandian,Danai Udomchoke,ARG,THA,62%,56%,5,10,6,11,66%,64%,44%,38%,194,197,167,175,146,146,60%,24%,44%,41%,165,150,47,35,61,54,78%,50%
+First,Tomas Berdych,7-5 6-3 6-7(2) 6-1,2006,m,Tomas Berdych,Bobby Reynolds,CZE,USA,53%,57%,24,10,7,10,80%,67%,45%,42%,,,,,,,67%,20%,44%,36%,147,124,59,30,58,47,63%,62%
+First,Dmitry Tursunov,5-7 6-3 6-4 7-5,2006,m,Dmitry Tursunov,Tim Henman,RUS,GBR,56%,65%,7,5,8,5,73%,60%,40%,43%,218,205,194,180,151,151,50%,38%,46%,42%,153,140,67,39,41,31,56%,56%
+First,Jimmy Wang,6-2 7-5 4-1 ret.,2006,m,Jimmy Wang,Mariano Zabaleta,TPE,ARG,61%,51%,4,3,2,8,72%,60%,66%,42%,202,201,181,181,148,148,35%,29%,49%,31%,97,70,20,22,18,52,70%,63%
+First,James Blake,6-2 6-3 4-6 7-6(4),2006,m,James Blake,Jose Acasuso,USA,ARG,55%,53%,11,11,2,3,70%,64%,53%,53%,204,212,186,194,151,151,35%,31%,41%,38%,134,123,43,45,40,42,78%,63%
+First,Julien Benneteau,6-2 6-1 3-0 ret.,2006,m,Julien Benneteau,Marcos Daniel,FRA,BRA,70%,72%,4,2,1,3,74%,49%,80%,29%,,,,,,,60%,0%,57%,24%,72,38,25,9,14,25,92%,71%
+First,Philipp Kohlschreiber,7-5 6-2 6-4,2006,m,Philipp Kohlschreiber,Lukas Dlouhy,GER,CZE,54%,55%,12,8,1,2,84%,57%,59%,50%,,,,,,,38%,29%,46%,27%,102,72,37,24,23,37,60%,52%
+First,Stanislas Wawrinka,4-6 6-2 6-3 6-0,2006,m,Stanislas Wawrinka,Albert Montanes,SUI,ESP,53%,60%,10,6,6,4,85%,64%,51%,56%,,,,,,,75%,50%,40%,31%,106,86,37,22,40,37,64%,56%
+First,Jarkko Nieminen,6-2 6-3 6-1,2006,m,Jarkko Nieminen,Marc Kimmich,FIN,AUS,73%,46%,2,4,2,4,73%,58%,48%,42%,,,,,,,88%,50%,51%,34%,85,59,23,24,23,30,91%,56%
+First,Denis Gremelmayr,3-6 6-2 6-0 6-1,2006,m,Denis Gremelmayr,Jonas Bjorkman,GER,SWE,55%,53%,8,4,2,6,75%,54%,55%,39%,,,,,,,73%,40%,53%,34%,113,78,35,27,19,53,60%,60%
+First,Ivan Ljubicic,7-6(5) 6-4 7-6(3),2006,m,Ivan Ljubicic,Chris Guccione,CRO,AUS,63%,61%,13,23,1,5,84%,82%,66%,46%,210,222,189,199,156,156,20%,33%,32%,23%,117,103,50,45,9,17,75%,60%
+First,Andrei Pavel,6-4 7-6(5) 4-6 3-6 6-4,2006,m,Andrei Pavel,Carlos Moya,ROU,ESP,68%,55%,0,8,3,4,70%,70%,41%,47%,202,217,175,178,144,144,27%,75%,39%,39%,161,166,44,54,55,66,69%,60%
+First,Xavier Malisse,7-5 5-7 6-4 6-2,2006,m,Xavier Malisse,Mikhail Youzhny,BEL,RUS,49%,50%,7,3,2,9,75%,63%,50%,44%,,,,,,,47%,46%,46%,38%,137,115,31,37,37,67,81%,62%
+First,Andy Roddick,6-4 6-2 6-2,2006,m,Andy Roddick,Michael Lammer,USA,SUI,58%,58%,7,2,2,2,85%,60%,45%,35%,218,196,201,181,143,143,67%,33%,50%,32%,91,62,29,19,23,26,56%,59%
+First,Marcos Baghdatis,7-6(6) 7-5 6-0,2006,m,Marcos Baghdatis,Justin Gimelstob,CYP,USA,46%,54%,4,8,4,4,87%,60%,56%,46%,,,,,,,40%,50%,46%,30%,110,85,40,26,21,34,38%,49%
+First,Gilles Simon,7-6(6) 6-2 3-6 4-6 6-3,2006,m,Gilles Simon,Nicolas Massu,FRA,CHI,53%,59%,8,7,3,4,67%,63%,50%,47%,,,,,,,38%,41%,44%,41%,180,172,61,44,65,73,72%,71%
