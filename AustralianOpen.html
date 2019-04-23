@@ -4,7 +4,6 @@
   <title>Australian Open</title>
   <head>
     <style>
-
       .split {
         height: 100%;
         width: 50%;
@@ -27,50 +26,50 @@
         right: 0;
       }
       /*Wheel's CSS*/
-      .wheel-text{
+      .wheel-text {
         font-size: 11px;
         font-weight: bold;
         font-family: helvetica;
         text-rendering: optimizeLegibility;
-        text-color: 'black';
+        text-color: "black";
       }
 
-      #vis{
+      #vis {
         padding-left: 3%;
         width: 700px;
         height: 100%;
       }
 
-      #slider{
+      #slider {
         width: 100%;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
       }
-      #year_id{
+      #year_id {
         font-size: 28px;
       }
-      #year{
+      #year {
         font-size: 28px;
       }
-      #volume{
+      #volume {
         font-size: 28px;
         margin-left: auto;
         margin-right: auto;
       }
-      .info{
+      .info {
         font-size: 22px;
       }
 
-      #fader{
+      #fader {
         margin-left: auto;
         margin-right: auto;
       }
 
-      input[type=range]{
-        background-color: #D4E5F5;
+      input[type="range"] {
+        background-color: #d4e5f5;
         width: 460px;
-        height:30px;
+        height: 30px;
         margin-left: auto;
         margin-right: auto;
         border-style: solid;
@@ -79,70 +78,70 @@
         border-radius: 15px;
       }
 
-      .winner{
+      .winner {
         padding: 20px;
-        background-color: #A9C6E2;
+        background-color: #a9c6e2;
         margin-top: 10px;
         text-align: center;
         border-style: solid;
         border-width: 1px;
-        border-color: #A9C6E2;
+        border-color: #a9c6e2;
         width: 80%;
         margin-left: auto;
         margin-right: auto;
         border-radius: 15px;
       }
-      #winner_name{
+      #winner_name {
         font-size: 32px;
       }
 
-      #tourney{
-        width:30%;
+      #tourney {
+        width: 30%;
         font-size: 28px;
         margin-top: 40px;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
       }
-      .winnerPlayer{
-        background-color : blue;
+      .winnerPlayer {
+        background-color: blue;
       }
-      .loserPlayer{
-        background-color : orange;
+      .loserPlayer {
+        background-color: orange;
       }
-      .round_header{
+      .round_header {
         font-size: 30px;
         text-align: center;
       }
-      .round_competitors1{
+      .round_competitors1 {
         font-size: 28px;
         text-align: center;
         padding: 0 7px;
       }
-      .round_competitors{
+      .round_competitors {
         font-size: 28px;
         text-align: center;
-        background-color: #D69B45;
+        background-color: #d69b45;
         padding: 0 7px;
       }
-      .vs{
+      .vs {
         font-size: 20px;
-        background-color: #A9C6E2;
+        background-color: #a9c6e2;
       }
 
-      .round_scores{
+      .round_scores {
         font-size: 20px;
         text-align: center;
       }
 
-      .svg_bar{
+      .svg_bar {
         width: 80%;
         border-left: 2px dotted;
-        border-color: #799FC3;
+        border-color: #799fc3;
         margin-left: 40px;
         padding-left: 10px;
         border-right: 2px dotted;
-        border-color: #799FC3;
+        border-color: #799fc3;
         padding-right: 10px;
         margin-top: 5px;
       }
@@ -197,39 +196,59 @@
         shape-rendering: crispEdges;
       }
 
-      body{
-        background-color: #D4E5F5;
+      body {
+        background-color: #d4e5f5;
       }
 
       #statis {
-        font-family:Helvetica;
+        font-family: Helvetica;
         border-collapse: collapse;
         width: 100%;
       }
 
-      #statis td, #statis th {
+      #statis td,
+      #statis th {
         border: 1px solid #ddd;
         padding: 8px;
       }
 
-      #statis tr:{background-color: #f2f2f2;}
-
+      #statis tr: {
+        background-color: #f2f2f2;
+      }
 
       #statis th {
         padding-top: 12px;
         padding-bottom: 12px;
         text-align: left;
-        background-color: #4CAF50;
+        background-color: #4caf50;
         color: white;
+      }
+
+      .bar {
+        width: 100%;
+      }
+      .inner_bar {
+        margin: 0 auto;
+        color: #333;
+        border-bottom: 1px;
+        height: 80px;
+        width: 100%;
+        max-width: 1300px;
+      }
     </style>
   </head>
   <body>
-    <u
-      ><h1 style="display:flex; justify-content:space-around;">
-        Australian Open Fixtures according to each year
-      </h1></u
-    >
-    <div style="overflow-y:auto;">
+    <div class="bar">
+      <div class="inner_bar">
+        <u
+          ><h1 style="display:flex; justify-content:space-around;">
+            Australian Open Fixtures according to each year
+          </h1></u
+        >
+      </div>
+    </div>
+
+    <div class="row">
       <div id="vis" class="split left"></div>
       <div class="split right">
         <div id="slider">
