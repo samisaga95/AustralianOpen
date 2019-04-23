@@ -1,274 +1,294 @@
 <!DOCTYPE html>
 <html>
-<meta charset="utf-8">
-<title>Australian Open</title>
-<head>
-  <style>
+  <meta charset="utf-8" />
+  <title>Australian Open</title>
+  <head>
+    <style>
 
-    .split {
-      height: 100%;
-      width: 50%;
-      position: fixed;
-      z-index: 1;
-      top: 0;
-      overflow-x: hidden;
-      padding-top: 20px;
-    }
+      .split {
+        height: 100%;
+        width: 50%;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        overflow-x: hidden;
+        padding-top: 20px;
+        overflow-y: unset;
+      }
 
-    /* Control the left side */
-    .left {
-      left: 0;
-    }
+      /* Control the left side */
+      .left {
+        left: 0;
+      }
 
-    /* Control the right side */
-    .right {
-      padding-top:5%;
-      right: 0;
-    }
-    /*Wheel's CSS*/
-    .wheel-text{
-      font-size: 11px;
-      font-weight: bold;
-      font-family: helvetica;
-      text-rendering: optimizeLegibility;
-      text-color: 'black';
-    }
+      /* Control the right side */
+      .right {
+        padding-top:5%;
+        right: 0;
+      }
+      /*Wheel's CSS*/
+      .wheel-text{
+        font-size: 11px;
+        font-weight: bold;
+        font-family: helvetica;
+        text-rendering: optimizeLegibility;
+        text-color: 'black';
+      }
 
-    #vis{
-      padding-top: 7%;
-      padding-left: 3%;
-      width: 700px;
-      height: 100%;
-    }
+      #vis{
+        padding-top: 7%;
+        padding-left: 3%;
+        width: 700px;
+        height: 100%;
+      }
 
-    #slider{
-      width: 100%;
-      text-align: center;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    #year_id{
-      font-size: 28px;
-    }
-    #year{
-      font-size: 28px;
-    }
-    #volume{
-      font-size: 28px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    .info{
-      font-size: 22px;
-    }
+      #slider{
+        width: 100%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      #year_id{
+        font-size: 28px;
+      }
+      #year{
+        font-size: 28px;
+      }
+      #volume{
+        font-size: 28px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .info{
+        font-size: 22px;
+      }
 
-    #fader{
-      margin-left: auto;
-      margin-right: auto;
-    }
+      #fader{
+        margin-left: auto;
+        margin-right: auto;
+      }
 
-    input[type=range]{
-      background-color: #D4E5F5;
-      width: 460px;
-      height:30px;
-      margin-left: auto;
-      margin-right: auto;
-      border-style: solid;
-      border-width: 1px;
-      border-color: gray;
-      border-radius: 15px;
-    }
+      input[type=range]{
+        background-color: #D4E5F5;
+        width: 460px;
+        height:30px;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: solid;
+        border-width: 1px;
+        border-color: gray;
+        border-radius: 15px;
+      }
 
-    .winner{
-      padding: 20px;
-      background-color: #A9C6E2;
-      margin-top: 10px;
-      text-align: center;
-      border-style: solid;
-      border-width: 1px;
-      border-color: #A9C6E2;
-      width: 80%;
-      margin-left: auto;
-      margin-right: auto;
-      border-radius: 15px;
-    }
-    #winner_name{
-      font-size: 32px;
-    }
+      .winner{
+        padding: 20px;
+        background-color: #A9C6E2;
+        margin-top: 10px;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #A9C6E2;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 15px;
+      }
+      #winner_name{
+        font-size: 32px;
+      }
 
-    #tourney{
-      width:30%;
-      font-size: 28px;
-      margin-top: 40px;
-      margin-left: auto;
-      margin-right: auto;
-      text-align: center;
-    }
-    .winnerPlayer{
-      background-color : blue;
-    }
-    .loserPlayer{
-      background-color : orange;
-    }
-    .round_header{
-      font-size: 30px;
-      text-align: center;
-    }
-    .round_competitors1{
-      font-size: 28px;
-      text-align: center;
-      padding: 0 7px;
-    }
-    .round_competitors{
-      font-size: 28px;
-      text-align: center;
-      background-color: #D69B45;
-      padding: 0 7px;
-    }
-    .vs{
-      font-size: 20px;
-      background-color: #A9C6E2;
-    }
+      #tourney{
+        width:30%;
+        font-size: 28px;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+      }
+      .winnerPlayer{
+        background-color : blue;
+      }
+      .loserPlayer{
+        background-color : orange;
+      }
+      .round_header{
+        font-size: 30px;
+        text-align: center;
+      }
+      .round_competitors1{
+        font-size: 28px;
+        text-align: center;
+        padding: 0 7px;
+      }
+      .round_competitors{
+        font-size: 28px;
+        text-align: center;
+        background-color: #D69B45;
+        padding: 0 7px;
+      }
+      .vs{
+        font-size: 20px;
+        background-color: #A9C6E2;
+      }
 
-    .round_scores{
-      font-size: 20px;
-      text-align: center;
-    }
+      .round_scores{
+        font-size: 20px;
+        text-align: center;
+      }
 
-    .svg_bar{
-      width: 80%;
-      border-left: 2px dotted;
-      border-color: #799FC3;
-      margin-left: 40px;
-      padding-left: 10px;
-      border-right: 2px dotted;
-      border-color: #799FC3;
-      padding-right: 10px;
-      margin-top: 5px;
-    }
+      .svg_bar{
+        width: 80%;
+        border-left: 2px dotted;
+        border-color: #799FC3;
+        margin-left: 40px;
+        padding-left: 10px;
+        border-right: 2px dotted;
+        border-color: #799FC3;
+        padding-right: 10px;
+        margin-top: 5px;
+      }
 
-    tooltip {
-      background: #eee;
-      box-shadow: 0 0 5px #999999;
-      color: #333;
-      display: none;
-      font-size: 12px;
-      left: 130px;
-      padding: 10px;
-      position: absolute;
-      text-align: center;
-      top: 95px;
-      width: 80px;
-      z-index: 10;
-    }
-    .d3-tip {
-      line-height: 1;
-      font-weight: bold;
-      padding: 12px;
-      background: rgba(0, 0, 0, 0.8);
-      color: #fff;
-      border-radius: 2px;
-    }
-    .d3-tip:after {
-      box-sizing: border-box;
-      display: inline;
-      font-size: 10px;
-      width: 100%;
-      line-height: 1;
-      color: rgba(0, 0, 0, 0.8);
-      content: "\25BC";
-      position: absolute;
-      text-align: center;
-    }
+      tooltip {
+        background: #eee;
+        box-shadow: 0 0 5px #999999;
+        color: #333;
+        display: none;
+        font-size: 12px;
+        left: 130px;
+        padding: 10px;
+        position: absolute;
+        text-align: center;
+        top: 95px;
+        width: 80px;
+        z-index: 10;
+      }
+      .d3-tip {
+        line-height: 1;
+        font-weight: bold;
+        padding: 12px;
+        background: rgba(0, 0, 0, 0.8);
+        color: #fff;
+        border-radius: 2px;
+      }
+      .d3-tip:after {
+        box-sizing: border-box;
+        display: inline;
+        font-size: 10px;
+        width: 100%;
+        line-height: 1;
+        color: rgba(0, 0, 0, 0.8);
+        content: "\25BC";
+        position: absolute;
+        text-align: center;
+      }
 
-    .d3-tip.n:after {
-      margin: -1px 0 0 0;
-      top: 100%;
-      left: 0;
-    }
-    .axis {
-      font: 12px sans-serif;
-    }
+      .d3-tip.n:after {
+        margin: -1px 0 0 0;
+        top: 100%;
+        left: 0;
+      }
+      .axis {
+        font: 12px sans-serif;
+      }
 
-    .axis path,
-    .axis line {
-      fill: none;
-      stroke: #000;
-      shape-rendering: crispEdges;
-    }
+      .axis path,
+      .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+      }
 
-    body{
-      background-color: #D4E5F5;
-    }
+      body{
+        background-color: #D4E5F5;
+      }
 
-    #statis {
-      font-family:Helvetica;
-      border-collapse: collapse;
-      width: 100%;
-    }
+      #statis {
+        font-family:Helvetica;
+        border-collapse: collapse;
+        width: 100%;
+      }
 
-    #statis td, #statis th {
-      border: 1px solid #ddd;
-      padding: 8px;
-    }
+      #statis td, #statis th {
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
 
-    #statis tr:{background-color: #f2f2f2;}
+      #statis tr:{background-color: #f2f2f2;}
 
 
-    #statis th {
-      padding-top: 12px;
-      padding-bottom: 12px;
-      text-align: left;
-      background-color: #4CAF50;
-      color: white;
-
-  </style>
+      #statis th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #4CAF50;
+        color: white;
+    </style>
   </head>
   <body>
-    <u><h1 style= "display:flex; justify-content:space-around;">Australian Open Fixtures according to each year</h1></u>
-    <div id ="vis" class="split left"></div>
-    <div class="split right">
-      <div id="slider">
-        <label id="year_id" for="fader">Year: </label><output for="fader" id="year"></output><br/>
-        <input type="range" min="2004" max="2014" value="2009" id="fader" step="1" oninput="outputUpdate(value)">
+    <u
+      ><h1 style="display:flex; justify-content:space-around;">
+        Australian Open Fixtures according to each year
+      </h1></u
+    >
+    <div style="overflow-y:auto;">
+      <div id="vis" class="split left"></div>
+      <div class="split right">
+        <div id="slider">
+          <label id="year_id" for="fader">Year: </label
+          ><output for="fader" id="year"></output><br />
+          <input
+            type="range"
+            min="2004"
+            max="2014"
+            value="2009"
+            id="fader"
+            step="1"
+            oninput="outputUpdate(value)"
+          />
+        </div>
+        <div class="winner">
+          <label id="winner_name">
+            <label id="starting_msg">Select A Year</label></label
+          >
+          <span id="winner_flag"></span>
+        </div>
+        <div class="winner" id="stats"></div>
+        <div class="winner" id="info"></div>
       </div>
-      <div class="winner">
-        <label id="winner_name"> <label id="starting_msg">Select A Year</label></label>
-        <span id = "winner_flag"></span>
-      </div>
-      <div class="winner" id="stats"></div>
-      <div class="winner" id="info"></div>
-    </body>
+    </div>
+  </body>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
-    <script type="text/javascript" src="https://d3js.org/d3.v3.js"></script>
-    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
-    <script type="text/javascript">
-      var info = "<h2 style=\"text-align:left; margin:2px\">Info:</h2>\
-                  <ol style=\"text-align:left; bottom-margin:2px; font-size:20px\">\
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <script type="text/javascript" src="https://d3js.org/d3.v3.js"></script>
+  <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+  <script type="text/javascript">
+    var info =
+      '<h2 style="text-align:left; margin:2px">Info:</h2>\
+                  <ol style="text-align:left; bottom-margin:2px; font-size:20px">\
                     <li>The wheel represents the fixtures of the entire tournament.</li>\
                     <li>Click on any player to see the who he played against.</li>\
                     <li>Click on the center to go a level above.</li>\
-                  </ol>";
-      
-      document.getElementById("info").innerHTML = info;
-      
-      
-      function outputUpdate(vol) {
-        document.querySelector('#year').value = vol;
-        d3.select(".container").selectAll("div").remove();
-        d3.select(".eg1").remove();
-        load_data(vol);
-        
-      }
-    </script>
+                  </ol>';
 
-    <script>
+    document.getElementById("info").innerHTML = info;
 
-      function sunbusrt(year){
-        d3.select('#vis').selectAll("svg").remove();
+    function outputUpdate(vol) {
+      document.querySelector("#year").value = vol;
+      d3.select(".container")
+        .selectAll("div")
+        .remove();
+      d3.select(".eg1").remove();
+      load_data(vol);
+    }
+  </script>
 
-        var width = 650,
+  <script>
+    function sunbusrt(year) {
+      d3.select("#vis")
+        .selectAll("svg")
+        .remove();
+
+      var width = 650,
         height = 800,
         radius = width / 2,
         x = d3.scale.linear().range([0, 2 * Math.PI]),
@@ -276,80 +296,114 @@
         padding = 10,
         duration = 1000;
 
-        var div = d3.select("#vis");
+      var div = d3.select("#vis");
 
-        div.select("img").remove();
+      div.select("img").remove();
 
-        var vis = div.append("svg")
+      var vis = div
+        .append("svg")
         .attr("width", width + padding * 2)
         .attr("height", height + padding * 2)
         .append("g")
-        .attr("transform", "translate(" + [radius + padding, radius + padding] + ")");
+        .attr(
+          "transform",
+          "translate(" + [radius + padding, radius + padding] + ")"
+        );
 
-        var partition = d3.layout.partition()
+      var partition = d3.layout
+        .partition()
         .sort(null)
-        .value(function(d) { return d.depth; });
+        .value(function(d) {
+          return d.depth;
+        });
 
-        var arc = d3.svg.arc()
-        .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
-        .endAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))); })
-        .innerRadius(function(d) { return Math.max(0, d.y ? y(d.y) : d.y); })
-        .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
+      var arc = d3.svg
+        .arc()
+        .startAngle(function(d) {
+          return Math.max(0, Math.min(2 * Math.PI, x(d.x)));
+        })
+        .endAngle(function(d) {
+          return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx)));
+        })
+        .innerRadius(function(d) {
+          return Math.max(0, d.y ? y(d.y) : d.y);
+        })
+        .outerRadius(function(d) {
+          return Math.max(0, y(d.y + d.dy));
+        });
 
+      d3.json("data/" + year + ".json", function(json) {
+        console.log(json);
 
-        d3.json("data/"+year+".json", function(json) {
-          console.log(json);
+        var nodes = partition.nodes(json);
 
-          var nodes = partition.nodes(json);
-
-          var path = vis.selectAll("path").data(nodes);
-          path.enter().append("path")
-          .attr("id", function(d, i) { return "path-" + i; })
+        var path = vis.selectAll("path").data(nodes);
+        path
+          .enter()
+          .append("path")
+          .attr("id", function(d, i) {
+            return "path-" + i;
+          })
           .attr("d", arc)
-          .style("stroke","snow")
+          .style("stroke", "snow")
           .style("fill", colour)
           .on("click", click);
 
-          var text = vis.selectAll("text").data(nodes);
-          var textEnter = text.enter().append("text")
+        var text = vis.selectAll("text").data(nodes);
+        var textEnter = text
+          .enter()
+          .append("text")
           .style("fill-opacity", 1)
-          .attr("class","wheel-text")
-          .attr("visibility",function(d) { return d.dx < 0.01? "hidden" : "visible"})
+          .attr("class", "wheel-text")
+          .attr("visibility", function(d) {
+            return d.dx < 0.01 ? "hidden" : "visible";
+          })
 
           .attr("text-anchor", function(d) {
-            return x(d.x + d.dx ) > Math.PI ? "end" : "start";
+            return x(d.x + d.dx) > Math.PI ? "end" : "start";
           })
           .attr("dy", ".2em")
           .attr("transform", function(d) {
             var multiline = (d.name || "").split("/").length > 1,
-            angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90,
-            rotate = angle + (multiline ? -.5 : 0);
-            return "rotate(" + rotate + ")translate(" + (y(d.y) + padding) + ")rotate(" + (angle > 90 ? -180 : 0) + ")";
+              angle = (x(d.x + d.dx / 2) * 180) / Math.PI - 90,
+              rotate = angle + (multiline ? -0.5 : 0);
+            return (
+              "rotate(" +
+              rotate +
+              ")translate(" +
+              (y(d.y) + padding) +
+              ")rotate(" +
+              (angle > 90 ? -180 : 0) +
+              ")"
+            );
           })
           .on("click", click);
 
-          textEnter.append("tspan")
+        textEnter
+          .append("tspan")
           .attr("x", 0)
           .text(function(d) {
-            if(!d.name) {
+            if (!d.name) {
               console.log(d);
               return "BYE";
             }
 
-            return  d.name.split(" ")[1];
+            return d.name.split(" ")[1];
           });
 
-          function click(d) {
+        function click(d) {
+          var total = d.dx;
 
-            var total = d.dx;
-
-            path.transition()
+          path
+            .transition()
             .duration(duration)
             .attrTween("d", arcTween(d));
 
-            // Somewhat of a hack as we rely on arcTween updating the scales.
-            text
-            .attr("visibility",function(d) { return d.dx/total < 0.01? "hidden" : "visible"})
+          // Somewhat of a hack as we rely on arcTween updating the scales.
+          text
+            .attr("visibility", function(d) {
+              return d.dx / total < 0.01 ? "hidden" : "visible";
+            })
             .transition()
             .duration(duration)
             .attrTween("text-anchor", function(d) {
@@ -360,154 +414,247 @@
             .attrTween("transform", function(d) {
               var multiline = (d.name || "").split(" ").length > 1;
               return function() {
-                var angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90,
-                rotate = angle + (multiline ? -.5 : 0);
-                return "rotate(" + rotate + ")translate(" + (y(d.y) + padding) + ")rotate(" + (angle > 90 ? -180 : 0) + ")";
+                var angle = (x(d.x + d.dx / 2) * 180) / Math.PI - 90,
+                  rotate = angle + (multiline ? -0.5 : 0);
+                return (
+                  "rotate(" +
+                  rotate +
+                  ")translate(" +
+                  (y(d.y) + padding) +
+                  ")rotate(" +
+                  (angle > 90 ? -180 : 0) +
+                  ")"
+                );
               };
             })
-            .style("fill-opacity", function(e) { return isParentOf(d, e) ? 1 : 1e-6; })
+            .style("fill-opacity", function(e) {
+              return isParentOf(d, e) ? 1 : 1e-6;
+            })
             .each("end", function(e) {
-              d3.select(this).style("visibility", isParentOf(d, e) ? null : "hidden");
+              d3.select(this).style(
+                "visibility",
+                isParentOf(d, e) ? null : "hidden"
+              );
             });
-            statistics(d);
+          statistics(d);
+        }
+
+        function isParentOf(p, c) {
+          if (p === c) return true;
+          if (p.children) {
+            return p.children.some(function(d) {
+              return isParentOf(d, c);
+            });
           }
+          return false;
+        }
 
+        function colour(d) {
+          return "#02a8f4";
+        }
 
-          function isParentOf(p, c) {
-            if (p === c) return true;
-            if (p.children) {
-              return p.children.some(function(d) {
-                return isParentOf(d, c);
-              });
-            }
-            return false;
-          }
-
-          function colour(d) {
-            return "#02a8f4";
-          }
-
-          // Interpolate the scales!
-          function arcTween(d) {
-            var my = maxY(d),
+        // Interpolate the scales!
+        function arcTween(d) {
+          var my = maxY(d),
             xd = d3.interpolate(x.domain(), [d.x, d.x + d.dx]),
             yd = d3.interpolate(y.domain(), [d.y, my]),
             yr = d3.interpolate(y.range(), [d.y ? 20 : 0, radius]);
-            return function(d) {
-              return function(t) { x.domain(xd(t)); y.domain(yd(t)).range(yr(t)); return arc(d); };
+          return function(d) {
+            return function(t) {
+              x.domain(xd(t));
+              y.domain(yd(t)).range(yr(t));
+              return arc(d);
             };
-          }
-
-          function maxY(d) {
-            return d.children ? Math.max.apply(Math, d.children.map(maxY)) : d.y + d.dy;
-          }
-
-        });
-      }
-
-      function statistics(match){
-        if(match.round==="seed"){
-          d3.select("#stats").selectAll('div').remove();
-          d3.select("#stats").append("div").append("label")
-            .attr("class","round_competitors")
-            .text(match.name);
-          return ;
+          };
         }
 
-        d3.select("#stats").selectAll('div').remove();
+        function maxY(d) {
+          return d.children
+            ? Math.max.apply(Math, d.children.map(maxY))
+            : d.y + d.dy;
+        }
+      });
+    }
 
-        d3.select("#stats").append("div").attr("class","round_details");
+    function statistics(match) {
+      if (match.round === "seed") {
+        d3.select("#stats")
+          .selectAll("div")
+          .remove();
+        d3.select("#stats")
+          .append("div")
+          .append("label")
+          .attr("class", "round_competitors")
+          .text(match.name);
+        return;
+      }
 
-        d3.select("#stats").select(".round_details")
+      d3.select("#stats")
+        .selectAll("div")
+        .remove();
+
+      d3.select("#stats")
+        .append("div")
+        .attr("class", "round_details");
+
+      d3.select("#stats")
+        .select(".round_details")
         .append("label")
-        .attr("class","round_header")
-        .text("Round: "+match.round);
+        .attr("class", "round_header")
+        .text("Round: " + match.round);
 
-        d3.select("#stats").select(".round_header").append("br");
+      d3.select("#stats")
+        .select(".round_header")
+        .append("br");
 
-        d3.select("#stats").select(".round_details")
+      d3.select("#stats")
+        .select(".round_details")
         .append("label")
-        .attr("class","round_competitors")
+        .attr("class", "round_competitors")
         .text(match.player1);
 
-        d3.select("#stats").select(".round_competitors").append("br");
-        d3.select("#stats").select(".round_details").append("label").attr("class","vs").text("v/s");
-
-
-        d3.select("#stats").select(".vs").append("br");
-        d3.select("#stats").select(".round_details")
+      d3.select("#stats")
+        .select(".round_competitors")
+        .append("br");
+      d3.select("#stats")
+        .select(".round_details")
         .append("label")
-        .attr("class","round_competitors1")
+        .attr("class", "vs")
+        .text("v/s");
+
+      d3.select("#stats")
+        .select(".vs")
+        .append("br");
+      d3.select("#stats")
+        .select(".round_details")
+        .append("label")
+        .attr("class", "round_competitors1")
         .text(match.player2);
 
-        d3.select("#stats").select(".round_competitors1").append("br");
+      d3.select("#stats")
+        .select(".round_competitors1")
+        .append("br");
 
-        d3.select("#stats").select(".round_details")
-        .append("label").attr("class","round_scores").append("br");
-        d3.select("#stats").select(".round_scores").append("label").text('Score: '+match.results);
+      d3.select("#stats")
+        .select(".round_details")
+        .append("label")
+        .attr("class", "round_scores")
+        .append("br");
+      d3.select("#stats")
+        .select(".round_scores")
+        .append("label")
+        .text("Score: " + match.results);
 
-        data=[{Name: match.player1, Aces:match.ace1, "Fastest Serve (kmph)": match.fastServe1, "Avg 1st Serve Speed (kmph)":match.avgFirstServe1, "Avg 2nd Serve Speed (kmph)":match.avgSecServe1},
-        {Name: match.player2, Aces:match.ace2, "Fastest Serve (kmph)": match.fastServe2, "Avg 1st Serve Speed (kmph)":match.avgFirstServe2, "Avg 2nd Serve Speed (kmph)":match.avgSecServe2}]
-        columns = ['Name','Aces','Fastest Serve (kmph)','Avg 1st Serve Speed (kmph)', 'Avg 2nd Serve Speed (kmph)']
+      data = [
+        {
+          Name: match.player1,
+          Aces: match.ace1,
+          "Fastest Serve (kmph)": match.fastServe1,
+          "Avg 1st Serve Speed (kmph)": match.avgFirstServe1,
+          "Avg 2nd Serve Speed (kmph)": match.avgSecServe1
+        },
+        {
+          Name: match.player2,
+          Aces: match.ace2,
+          "Fastest Serve (kmph)": match.fastServe2,
+          "Avg 1st Serve Speed (kmph)": match.avgFirstServe2,
+          "Avg 2nd Serve Speed (kmph)": match.avgSecServe2
+        }
+      ];
+      columns = [
+        "Name",
+        "Aces",
+        "Fastest Serve (kmph)",
+        "Avg 1st Serve Speed (kmph)",
+        "Avg 2nd Serve Speed (kmph)"
+      ];
 
-        d3.select("#stats").select("div").attr("class","infoTable");
-        d3.select("#stats").select(".infoTable").append("br");
-        d3.select("#stats").select(".infoTable").append("br");
+      d3.select("#stats")
+        .select("div")
+        .attr("class", "infoTable");
+      d3.select("#stats")
+        .select(".infoTable")
+        .append("br");
+      d3.select("#stats")
+        .select(".infoTable")
+        .append("br");
 
-        var table = d3.select('#stats').select(".infoTable").append('table')
-        .attr("id","statis");
-        var thead = table.append('thead')
-        .attr("align","left");
-        var	tbody = table.append('tbody')
-        .attr("align","left");
+      var table = d3
+        .select("#stats")
+        .select(".infoTable")
+        .append("table")
+        .attr("id", "statis");
+      var thead = table.append("thead").attr("align", "left");
+      var tbody = table.append("tbody").attr("align", "left");
 
-        // append the header row
-        thead.append('tr')
-        .selectAll('th')
-        .data(columns).enter()
-        .append('th')
-        .text(function (column) { return column; });
+      // append the header row
+      thead
+        .append("tr")
+        .selectAll("th")
+        .data(columns)
+        .enter()
+        .append("th")
+        .text(function(column) {
+          return column;
+        });
 
-        // create a row for each object in the data
-        var rows = tbody.selectAll('tr')
+      // create a row for each object in the data
+      var rows = tbody
+        .selectAll("tr")
         .data(data)
         .enter()
-        .append('tr');
+        .append("tr");
 
-        // create a cell in each row for each column
-        var cells = rows.selectAll('td')
-        .data(function (row) {
-          return columns.map(function (column) {
+      // create a cell in each row for each column
+      var cells = rows
+        .selectAll("td")
+        .data(function(row) {
+          return columns.map(function(column) {
             var val = row[column] ? row[column] : "N/A";
-            return {column: column, value: val};
+            return { column: column, value: val };
           });
         })
         .enter()
-        .append('td')
-        .text(function (d) { return d.value; });
-      }
+        .append("td")
+        .text(function(d) {
+          return d.value;
+        });
+    }
 
-      function load_data(year){
-        sunbusrt(year);
-        d3.select('#winner_name').selectAll('label').remove();
-        d3.select('#winner_flag').selectAll('svg').remove();
+    function load_data(year) {
+      sunbusrt(year);
+      d3.select("#winner_name")
+        .selectAll("label")
+        .remove();
+      d3.select("#winner_flag")
+        .selectAll("svg")
+        .remove();
 
-        d3.select("#winner_name").select("#starting_msg").remove();
-        d3.csv("data/"+year+".csv", function(data) {
-          d3.select("#winner_name").data(data).append("label").text(function(d,i){
-            if(d.round.toLowerCase()===("final")){
-              return 'Tournament Winner:\n' + d.winner;
+      d3.select("#winner_name")
+        .select("#starting_msg")
+        .remove();
+      d3.csv("data/" + year + ".csv", function(data) {
+        d3.select("#winner_name")
+          .data(data)
+          .append("label")
+          .text(function(d, i) {
+            if (d.round.toLowerCase() === "final") {
+              return "Tournament Winner:\n" + d.winner;
             }
           });
 
-          var flag1 = d3.select('#winner_flag').data(data).append("svg")
-          .attr("width",50)
-          .attr("height",30);
+        var flag1 = d3
+          .select("#winner_flag")
+          .data(data)
+          .append("svg")
+          .attr("width", 50)
+          .attr("height", 30);
 
-          flag1.append("svg:image")
-          .attr("xlink:href",function(d){
-            if(d.round.toLowerCase()===("final")){
-              return "country/"+d.country1+".png";
+        flag1
+          .append("svg:image")
+          .attr("xlink:href", function(d) {
+            if (d.round.toLowerCase() === "final") {
+              return "country/" + d.country1 + ".png";
             }
           })
           .attr("width", 40)
@@ -515,27 +662,24 @@
           .attr("x", 5)
           .attr("y", 6);
 
-          //Create json
-          final=
-          {
-            name: data[0].winner,
-            round: data[0].round,
-            results: data[0].results,
-            player1: data[0].player1,
-            player2: data[0].player2,
-            ace1: data[0].ace1,
-            ace2: data[0].ace2,
-            fastServe1:data[0].fastServe1,
-            fastServe2:data[0].fastServe2,
-            avgFirstServe1:data[0].avgFirstServe1,
-            avgFirstServe2:data[0].avgFirstServe2,
-            avgSecServe1:data[0].avgSecServe1,
-            avgSecServe2:data[0].avgSecServe2,
-          }
-          statistics(final);
-        });
-      }
-
-
-    </script>
-    </html>
+        //Create json
+        final = {
+          name: data[0].winner,
+          round: data[0].round,
+          results: data[0].results,
+          player1: data[0].player1,
+          player2: data[0].player2,
+          ace1: data[0].ace1,
+          ace2: data[0].ace2,
+          fastServe1: data[0].fastServe1,
+          fastServe2: data[0].fastServe2,
+          avgFirstServe1: data[0].avgFirstServe1,
+          avgFirstServe2: data[0].avgFirstServe2,
+          avgSecServe1: data[0].avgSecServe1,
+          avgSecServe2: data[0].avgSecServe2
+        };
+        statistics(final);
+      });
+    }
+  </script>
+</html>
