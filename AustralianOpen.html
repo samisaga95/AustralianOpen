@@ -254,7 +254,7 @@
       }
     </style>
   </head>
-  <body>
+  <body onload="outputUpdate(2006)">
     <div class="bar">
       <div class="inner_bar">
         <u
@@ -268,7 +268,7 @@
     <div class="row">
       <div id="vis" class="split left"></div>
       <div class="split right">
-        <div id="slider">
+        <div class="row" id="slider">
           <label id="year_id" for="fader">Year: </label
           ><output for="fader" id="year"></output><br />
           <input
@@ -281,14 +281,16 @@
             oninput="outputUpdate(value)"
           />
         </div>
-        <div class="winner">
-          <label id="winner_name">
-            <label id="starting_msg">Select A Year</label></label
-          >
-          <span id="winner_flag"></span>
+        <div>
+          <div class="row winner">
+            <label id="winner_name">
+              <label id="starting_msg">Select A Year</label></label
+            >
+            <span id="winner_flag"></span>
+          </div>
+          <div class="winner" id="stats"></div>
+          <div class="winner" id="info"></div>
         </div>
-        <div class="winner" id="stats"></div>
-        <div class="winner" id="info"></div>
       </div>
     </div>
   </body>
@@ -319,6 +321,7 @@
 
   <script>
     function sunbusrt(year) {
+      console.log(year);
       d3.select("#vis")
         .selectAll("svg")
         .remove();
@@ -368,8 +371,6 @@
         });
 
       d3.json("data/" + year + ".json", function(json) {
-        console.log(json);
-
         var nodes = partition.nodes(json);
 
         var path = vis.selectAll("path").data(nodes);
